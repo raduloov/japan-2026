@@ -1094,11 +1094,32 @@
   <span>Japan Spring 2026</span> &nbsp;·&nbsp; 6 Persons &nbsp;·&nbsp; 12 Apr — 27 Apr &nbsp;·&nbsp; Tokyo · Kyoto · Osaka · Nara · Hiroshima
 </div>
 
-<button class="pdf-btn" id="pdfBtn">Save as PDF</button>
+<button class="pdf-btn" id="pdfBtn">Save as Image</button>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
 <script>
-  document.getElementById('pdfBtn').addEventListener('click', function(e) {
+  document.getElementById('pdfBtn').addEventListener('click', async function(e) {
     e.preventDefault();
-    window.print();
+    var btn = this;
+    btn.textContent = 'Capturing…';
+    btn.disabled = true;
+    btn.style.display = 'none';
+    try {
+      var canvas = await html2canvas(document.body, {
+        scale: 2,
+        useCORS: true,
+        logging: false,
+        windowWidth: document.body.scrollWidth
+      });
+      var link = document.createElement('a');
+      link.download = 'japan-2026-itinerary.png';
+      link.href = canvas.toDataURL('image/png');
+      link.click();
+    } catch (err) {
+      alert('Capture failed: ' + err.message);
+    }
+    btn.style.display = '';
+    btn.textContent = 'Save as Image';
+    btn.disabled = false;
   });
 </script>
 
