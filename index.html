@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <title>Japan Trip — April 2026</title>
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&family=Noto+Serif+JP:wght@300;400&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
@@ -433,7 +433,7 @@
   /* PDF BUTTON */
   .pdf-btn {
     position: fixed;
-    bottom: 24px;
+    bottom: calc(24px + env(safe-area-inset-bottom, 0px));
     right: 24px;
     background: var(--red);
     color: white;
@@ -447,8 +447,11 @@
     box-shadow: 0 4px 12px rgba(0,0,0,0.25);
     transition: background 0.2s;
     z-index: 100;
+    -webkit-tap-highlight-color: transparent;
+    touch-action: manipulation;
   }
   .pdf-btn:hover { background: var(--ink); }
+  .pdf-btn:active { background: var(--ink); }
 
   @media print {
     .pdf-btn { display: none; }
@@ -599,14 +602,21 @@
         <div class="day-right">
           <div class="day-title">Early Arrivals — 4 People Land in Tokyo</div>
           <ul class="day-activities">
-            <li>Flight times TBD — 4 people arrive at Haneda Airport</li>
+            <li><strong>08:55</strong> — 2 people land at <a href="https://www.google.com/maps/search/?api=1&query=Narita+International+Airport" target="_blank"><strong>Narita Airport</strong></a>; clear customs & immigration (allow 1–1.5 hrs). Take the <strong>Keisei Skyliner</strong> to Ueno then onward to Asakusa (~90 min total)</li>
+            <li><strong>14:20</strong> — 2 people land at <a href="https://www.google.com/maps/search/?api=1&query=Haneda+Airport+Tokyo" target="_blank"><strong>Haneda Airport</strong></a>; clear customs, then <strong>Keikyu Line</strong> direct to Asakusa (~1 hr)</li>
             <li>Transfer to Asakusa hotel; check in and drop luggage</li>
             <li>Free afternoon & evening to explore at leisure — jet lag recovery day</li>
           </ul>
-          <div class="day-note">💡 Buy a <strong>Suica / Pasmo IC card</strong> at Haneda on arrival — you'll use it everywhere.</div>
+          <div class="day-note">💡 Buy a <strong>Suica / Pasmo IC card</strong> at the airport on arrival — you'll use it everywhere. The Narita pair will arrive at the hotel first (~11:30); the Haneda pair around ~16:00.</div>
           <div class="day-transit-info">
-            <div class="transit-item"><span class="transit-label">Flight</span><span class="transit-value">Times TBD</span></div>
-            <div class="transit-item"><span class="transit-label">Transfer</span><span class="transit-value">~45 min to Asakusa</span></div>
+            <div class="transit-item"><span class="transit-label">Flight</span><span class="transit-value">2 pax — 08:55</span></div>
+            <div class="transit-item"><span class="transit-label">Airport</span><span class="transit-value">Narita</span></div>
+            <div class="transit-item"><span class="transit-label">Transfer</span><span class="transit-value">~90 min to Asakusa</span></div>
+          </div>
+          <div class="day-transit-info" style="margin-top: 8px;">
+            <div class="transit-item"><span class="transit-label">Flight</span><span class="transit-value">2 pax — 14:20</span></div>
+            <div class="transit-item"><span class="transit-label">Airport</span><span class="transit-value">Haneda</span></div>
+            <div class="transit-item"><span class="transit-label">Transfer</span><span class="transit-value">~1 hr to Asakusa</span></div>
           </div>
         </div>
       </div>
@@ -632,7 +642,7 @@
           <div class="day-note">💡 Buy a <strong>Suica / Pasmo IC card</strong> at Haneda — you'll use it everywhere for all local transport. Keep today relaxed — tomorrow is your real first full day.</div>
           <div class="day-transit-info">
             <div class="transit-item"><span class="transit-label">Arrive</span><span class="transit-value">Haneda 10:50</span></div>
-            <div class="transit-item"><span class="transit-label">Transfer</span><span class="transit-value">~45 min to Asakusa</span></div>
+            <div class="transit-item"><span class="transit-label">Transfer</span><span class="transit-value">~1 hr to Asakusa</span></div>
           </div>
         </div>
       </div>
@@ -669,10 +679,9 @@
           <span class="day-badge badge-transit">Transit</span>
         </div>
         <div class="day-right">
-          <div class="day-title">Tokyo Skytree → Narita → Kansai</div>
+          <div class="day-title">Narita → Kansai → Kyoto</div>
           <ul class="day-activities">
-            <li><strong>Early morning</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Tokyo+Skytree" target="_blank"><strong>Tokyo Skytree</strong></a> at opening (8:00); spectacular views before the crowds arrive</li>
-            <li><strong>~09:30</strong> — Head to <a href="https://www.google.com/maps/search/?api=1&query=Narita+International+Airport" target="_blank"><strong>Narita Airport</strong></a> (allow ~90 min from Asakusa via Keisei Skyliner)</li>
+            <li><strong>09:00</strong> — Check out of Asakusa hotel; head to <a href="https://www.google.com/maps/search/?api=1&query=Narita+International+Airport" target="_blank"><strong>Narita Airport</strong></a> via Keisei Skyliner (~90 min). Relaxed morning — grab breakfast at a konbini or café before departure</li>
             <li><strong>12:00</strong> — Flight <strong>Narita → Kansai Osaka</strong> (~1.5 hrs)</li>
             <li><strong>~15:15</strong> — Transfer from Kansai Airport to <strong>Kyoto</strong> (~75 min via Haruka Express)</li>
             <li>Check in to Kyoto hotel; freshen up</li>
@@ -711,14 +720,14 @@
           <div class="day-weekday">Wed</div>
         </div>
         <div class="day-right">
-          <div class="day-title">Arashiyama & Fushimi Inari</div>
+          <div class="day-title">Fushimi Inari, Nishiki Market & Arashiyama</div>
           <ul class="day-activities">
-            <li><strong>08:00</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Arashiyama+Bamboo+Grove+Kyoto" target="_blank"><strong>Arashiyama Bamboo Grove</strong></a>: go early to beat crowds; walk to <a href="https://www.google.com/maps/search/?api=1&query=Tenryuji+Temple+Kyoto" target="_blank"><strong>Tenryu-ji garden</strong></a></li>
-            <li><strong>11:00</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Iwatayama+Monkey+Park+Arashiyama+Kyoto" target="_blank"><strong>Monkey Park</strong></a> with panoramic views of Kyoto; lunch at riverside Arashiyama restaurants</li>
-            <li><strong>13:30</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Sanjusangendo+Kyoto" target="_blank"><strong>Sanjusangendo</strong></a>: breathtaking hall of 1,001 life-size golden Kannon statues — one of the most visually stunning rooms in all of Japan (30–40 min)</li>
-            <li><strong>14:30</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Fushimi+Inari+Taisha+Kyoto" target="_blank"><strong>Fushimi Inari Taisha</strong></a>: the famous thousands of torii gates; hike as far up the mountain as energy allows</li>
-            <li><strong>18:00</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Nishiki+Market+Kyoto" target="_blank"><strong>Nishiki Market</strong></a>: Kyoto's famous covered food market — graze on street snacks, pickles, fresh tofu, and local specialties while walking the narrow lane</li>
-            <li><strong>19:30</strong> — Dinner in the area (try kaiseki or yudofu tofu cuisine)</li>
+            <li><strong>08:00</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Fushimi+Inari+Taisha+Kyoto" target="_blank"><strong>Fushimi Inari Taisha</strong></a>: the famous thousands of vermilion torii gates; hike as far up the mountain as energy allows — the full loop takes 2.5–3 hours, but you can turn back at any point. Best experienced early before the crowds arrive</li>
+            <li><strong>11:00</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Sanjusangendo+Kyoto" target="_blank"><strong>Sanjusangendo</strong></a>: breathtaking hall of 1,001 life-size golden Kannon statues — one of the most visually stunning rooms in all of Japan (30–40 min). Just 10 min from Fushimi Inari by train</li>
+            <li><strong>12:00</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Nishiki+Market+Kyoto" target="_blank"><strong>Nishiki Market</strong></a>: Kyoto's famous covered food market — graze on street snacks, pickles, fresh tofu, and local specialties while walking the narrow lane. Perfect for lunch; stalls are all open midday</li>
+            <li><strong>14:00</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Kinkakuji+Temple+Kyoto" target="_blank"><strong>Kinkaku-ji (Golden Pavilion)</strong></a>: iconic gold-leaf temple reflected in a tranquil pond</li>
+            <li><strong>16:00</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Arashiyama+Bamboo+Grove+Kyoto" target="_blank"><strong>Arashiyama Bamboo Grove</strong></a>: the late afternoon light filtering through the bamboo is beautiful; walk to <a href="https://www.google.com/maps/search/?api=1&query=Tenryuji+Temple+Kyoto" target="_blank"><strong>Tenryu-ji garden</strong></a> and the <a href="https://www.google.com/maps/search/?api=1&query=Arashiyama+Park+Kyoto" target="_blank"><strong>Arashiyama Park viewpoint</strong></a> along the river</li>
+            <li><strong>18:00</strong> — Dinner at a riverside Arashiyama restaurant, or head back to central Kyoto (try kaiseki or yudofu tofu cuisine)</li>
           </ul>
         </div>
       </div>
@@ -760,13 +769,13 @@
           <span class="day-badge badge-transit">Transit</span>
         </div>
         <div class="day-right">
-          <div class="day-title">Kiyomizu-dera, Kyoto Classics → Osaka</div>
+          <div class="day-title">Kiyomizu-dera, Nijo Castle & More Kyoto → Osaka</div>
           <ul class="day-activities">
             <li><strong>07:00</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Kiyomizudera+Temple+Kyoto" target="_blank"><strong>Kiyomizu-dera Temple</strong></a>: one of Kyoto's most iconic temples on a wooden hillside platform; magical at dawn before the crowds arrive (opens 06:00)</li>
             <li><strong>08:00</strong> — Walk <a href="https://www.google.com/maps/search/?api=1&query=Sannenzaka+Ninenzaka+Kyoto" target="_blank"><strong>Sannenzaka & Ninenzaka</strong></a>: beautiful cobblestone streets winding down from the temple; souvenir shops, matcha cafés, traditional townhouses</li>
-            <li><strong>09:30</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Kinkakuji+Temple+Kyoto" target="_blank"><strong>Kinkaku-ji (Golden Pavilion)</strong></a>: iconic gold-leaf temple reflected in a tranquil pond</li>
-            <li><strong>11:00</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Nijo+Castle+Kyoto" target="_blank"><strong>Nijo Castle</strong></a>: shogun's Kyoto residence; famous "nightingale floors" that squeak when walked on</li>
-            <li><strong>~12:00</strong> — Pick up luggage and take the <strong>Hankyu Line</strong> to Osaka (~45 min, very affordable)</li>
+            <li><strong>09:30</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Nijo+Castle+Kyoto" target="_blank"><strong>Nijo Castle</strong></a>: shogun's Kyoto residence; famous "nightingale floors" that squeak when walked on</li>
+            <li><strong>11:00–15:00</strong> — TBD — extra time in Kyoto; options: <a href="https://www.google.com/maps/search/?api=1&query=Philosophers+Path+Kyoto" target="_blank"><strong>Philosopher's Path</strong></a> cherry blossom walk, <a href="https://www.google.com/maps/search/?api=1&query=Pontocho+Alley+Kyoto" target="_blank"><strong>Pontocho Alley</strong></a> lunch by the river, <a href="https://www.google.com/maps/search/?api=1&query=Iwatayama+Monkey+Park+Arashiyama+Kyoto" target="_blank"><strong>Monkey Park</strong></a> if missed on Apr 15, or revisit a favourite spot</li>
+            <li><strong>15:00</strong> — Take the <strong>Hankyu Line</strong> to Osaka (~45 min, very affordable)</li>
             <li>Check in to Osaka hotel in <strong>Namba / Shinsaibashi</strong> area</li>
             <li><strong>19:00</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Dotonbori+Osaka" target="_blank"><strong>Dotonbori</strong></a>: Osaka's electric food & entertainment canal; try <strong>takoyaki</strong> (octopus balls), <strong>okonomiyaki</strong>, and <strong>kushikatsu</strong></li>
           </ul>
@@ -942,7 +951,8 @@
             <li><strong>10:30</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Udagawacho+Shibuya+Tokyo" target="_blank"><strong>Udagawacho backstreets</strong></a>: Shibuya's hip side-street neighbourhood; plus the enormous <a href="https://www.google.com/maps/search/?api=1&query=Don+Quijote+Shibuya+Tokyo" target="_blank"><strong>Don Quijote</strong></a> — the ultimate Japanese discount store for cosmetics, snacks, electronics and souvenirs</li>
             <li><strong>11:30</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Daikanyama+Nakameguro+Tokyo" target="_blank"><strong>Daikanyama & Nakameguro</strong></a>: <a href="https://www.google.com/maps/search/?api=1&query=Tsutaya+Books+Daikanyama+Tokyo" target="_blank">Tsutaya Books</a>, chic cafés, the canal walk — Tokyo's most relaxed neighbourhoods; lunch here</li>
             <li><strong>14:30</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Yebisu+Beer+Museum+Tokyo" target="_blank"><strong>Ebisu Garden Place & Yebisu Beer Museum</strong></a> (free, fun for the group)</li>
-            <li><strong>18:00</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Roppongi+Tokyo" target="_blank"><strong>Roppongi</strong></a>: <a href="https://www.google.com/maps/search/?api=1&query=Mori+Art+Museum+Roppongi+Tokyo" target="_blank">Mori Art Museum</a> (contemporary art with city views) or izakaya evening</li>
+            <li><strong>17:30</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Tokyo+Skytree" target="_blank"><strong>Tokyo Skytree</strong></a> for sunset & early night view from 450m — catch the city transition from golden hour to glittering lights (open until 22:00; last entry 21:00)</li>
+            <li><strong>19:30</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Roppongi+Tokyo" target="_blank"><strong>Roppongi</strong></a>: start with dinner at a Roppongi izakaya or restaurant, then ease into the nightlife — <a href="https://www.google.com/maps/search/?api=1&query=Mori+Art+Museum+Roppongi+Tokyo" target="_blank">Mori Art Museum</a> rooftop bar for cocktails with city views, or explore the bars and clubs along <a href="https://www.google.com/maps/search/?api=1&query=Roppongi+Crossing+Tokyo" target="_blank">Roppongi-dori</a>. Popular spots include V2 Tokyo, 1OAK, and the smaller bars tucked into the side streets. Friday night in Roppongi is prime time</li>
           </ul>
         </div>
       </div>
@@ -967,14 +977,18 @@
         </div>
       </div>
 
-      <div class="day-card">
+      <div class="day-card transit">
         <div class="day-left">
           <div class="day-date-num">26</div>
           <div class="day-date-month">APR</div>
           <div class="day-weekday">Sun</div>
+          <span class="day-badge badge-transit">Departure ×4</span>
         </div>
         <div class="day-right">
-          <div class="day-title">Tsukiji, Last Tokyo — Group Parts Ways</div>
+          <div class="day-title">Last Full Day — Group Parts Ways</div>
+          <p style="font-size: 14px; color: var(--grey); font-style: italic; margin-bottom: 10px;">✈️ <strong>2 people depart early</strong> — Flight at <strong>10:25 from Narita</strong>. Need to be at Narita by ~08:00, leave Ikebukuro by ~06:00–06:30 (Narita Express or Skyliner). Say goodbyes the night before!</p>
+          <p style="font-size: 14px; color: var(--grey); font-style: italic; margin-bottom: 10px;">✈️ <strong>2 people depart afternoon</strong> — Flight at <strong>14:45 from Narita</strong>. Need to be at Narita by ~12:30, leave Ikebukuro by ~10:30–11:00. Time for a quick morning activity before heading to the airport.</p>
+          <p style="font-size: 14px; color: var(--grey); font-style: italic; margin-bottom: 10px;"><strong>The remaining 2 have the full day:</strong></p>
           <ul class="day-activities">
             <li><strong>08:00</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Tsukiji+Outer+Market+Tokyo" target="_blank"><strong>Tsukiji Outer Market</strong></a>: the world-famous seafood market; perfect for a breakfast of fresh sushi, tamagoyaki, and street snacks before the crowds arrive</li>
             <li><strong>Option A</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Tokyo+DisneySea" target="_blank"><strong>DisneySea Tokyo</strong></a> (the most beautiful theme park in the world — must book far ahead)</li>
@@ -982,7 +996,18 @@
             <li><strong>Option C</strong> — <strong>Ikebukuro</strong> itself: <a href="https://www.google.com/maps/search/?api=1&query=Sunshine+City+Ikebukuro+Tokyo" target="_blank">Sunshine City</a>, the giant <a href="https://www.google.com/maps/search/?api=1&query=Pokemon+Center+Mega+Tokyo+Ikebukuro" target="_blank">Pokémon Center</a>, anime flagship stores; plus last-minute shopping</li>
             <li><strong>~17:30</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Azabudai+Hills+Tokyo" target="_blank"><strong>Azabudai Hills</strong></a>: Tokyo's brand-new landmark development; free view of <strong>Tokyo Tower from the 60th floor</strong> of Hills House — pair with a walk through <a href="https://www.google.com/maps/search/?api=1&query=Shiba+Park+Tokyo" target="_blank"><strong>Shiba Park</strong></a> and <a href="https://www.google.com/maps/search/?api=1&query=Kokyo+Gaien+Imperial+Palace+Gardens+Tokyo" target="_blank"><strong>Kokyo Gaien</strong></a> (Imperial Palace outer gardens)</li>
           </ul>
-          <div class="day-note">✈️ <strong>4 people depart today</strong> — flight times TBC. The remaining 2 stay one more night and depart April 27.</div>
+          <div class="day-transit-info">
+            <div class="transit-item"><span class="transit-label">Group</span><span class="transit-value">2 pax</span></div>
+            <div class="transit-item"><span class="transit-label">Flight</span><span class="transit-value">10:25</span></div>
+            <div class="transit-item"><span class="transit-label">Leave Hotel</span><span class="transit-value">~06:00</span></div>
+            <div class="transit-item"><span class="transit-label">At Narita</span><span class="transit-value">~08:00</span></div>
+          </div>
+          <div class="day-transit-info" style="margin-top: 8px;">
+            <div class="transit-item"><span class="transit-label">Group</span><span class="transit-value">2 pax</span></div>
+            <div class="transit-item"><span class="transit-label">Flight</span><span class="transit-value">14:45</span></div>
+            <div class="transit-item"><span class="transit-label">Leave Hotel</span><span class="transit-value">~10:30</span></div>
+            <div class="transit-item"><span class="transit-label">At Narita</span><span class="transit-value">~12:30</span></div>
+          </div>
         </div>
       </div>
 
@@ -1069,7 +1094,13 @@
   <span>Japan Spring 2026</span> &nbsp;·&nbsp; 6 Persons &nbsp;·&nbsp; 12 Apr — 27 Apr &nbsp;·&nbsp; Tokyo · Kyoto · Osaka · Nara · Hiroshima
 </div>
 
-<button class="pdf-btn" onclick="window.print()">Save as PDF</button>
+<button class="pdf-btn" id="pdfBtn">Save as PDF</button>
+<script>
+  document.getElementById('pdfBtn').addEventListener('click', function(e) {
+    e.preventDefault();
+    window.print();
+  });
+</script>
 
 </body>
 </html>
