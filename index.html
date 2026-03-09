@@ -118,7 +118,10 @@
     display: flex;
     align-items: center;
     gap: 10px;
+    cursor: pointer;
+    transition: opacity 0.15s;
   }
+  .route-stop:hover { opacity: 0.7; }
 
   .route-dot {
     width: 7px; height: 7px;
@@ -561,25 +564,25 @@
 </div>
 
 <div class="route-bar">
-  <div class="route-stop"><span class="route-dot"></span> HANEDA ARRIVAL</div>
+  <div class="route-stop" data-target="phase-1"><span class="route-dot"></span> HANEDA ARRIVAL</div>
   <span class="route-arrow">›</span>
-  <div class="route-stop"><span class="route-dot"></span> ASAKUSA / TOKYO</div>
+  <div class="route-stop" data-target="phase-1"><span class="route-dot"></span> ASAKUSA / TOKYO</div>
   <span class="route-arrow">›</span>
-  <div class="route-stop"><span class="route-dot"></span> NARITA → KANSAI</div>
+  <div class="route-stop" data-target="phase-1"><span class="route-dot"></span> NARITA → KANSAI</div>
   <span class="route-arrow">›</span>
-  <div class="route-stop"><span class="route-dot"></span> KYOTO + NARA</div>
+  <div class="route-stop" data-target="phase-2"><span class="route-dot"></span> KYOTO + NARA</div>
   <span class="route-arrow">›</span>
-  <div class="route-stop"><span class="route-dot"></span> OSAKA + HIROSHIMA</div>
+  <div class="route-stop" data-target="phase-3"><span class="route-dot"></span> OSAKA + HIROSHIMA</div>
   <span class="route-arrow">›</span>
-  <div class="route-stop"><span class="route-dot"></span> KANSAI → NARITA</div>
+  <div class="route-stop" data-target="phase-3"><span class="route-dot"></span> KANSAI → NARITA</div>
   <span class="route-arrow">›</span>
-  <div class="route-stop"><span class="route-dot"></span> IKEBUKURO / TOKYO</div>
+  <div class="route-stop" data-target="phase-4"><span class="route-dot"></span> IKEBUKURO / TOKYO</div>
 </div>
 
 <div class="main">
 
   <!-- PHASE 1: ASAKUSA -->
-  <div class="phase">
+  <div class="phase" id="phase-1">
     <div class="phase-header">
       <div class="phase-num">Phase 01</div>
       <div class="phase-title-block">
@@ -700,7 +703,7 @@
   </div>
 
   <!-- PHASE 2: KYOTO -->
-  <div class="phase">
+  <div class="phase" id="phase-2">
     <div class="phase-header">
       <div class="phase-num">Phase 02</div>
       <div class="phase-title-block">
@@ -791,7 +794,7 @@
   </div>
 
   <!-- PHASE 3: OSAKA -->
-  <div class="phase">
+  <div class="phase" id="phase-3">
     <div class="phase-header">
       <div class="phase-num">Phase 03</div>
       <div class="phase-title-block">
@@ -907,7 +910,7 @@
   </div>
 
   <!-- PHASE 4: IKEBUKURO -->
-  <div class="phase">
+  <div class="phase" id="phase-4">
     <div class="phase-header">
       <div class="phase-num">Phase 04</div>
       <div class="phase-title-block">
@@ -1095,6 +1098,14 @@
 </div>
 
 <button class="pdf-btn" id="pdfBtn">Save as Image</button>
+<script>
+  document.querySelectorAll('.route-stop[data-target]').forEach(function(stop) {
+    stop.addEventListener('click', function() {
+      var el = document.getElementById(this.dataset.target);
+      if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+  });
+</script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
 <script>
   document.getElementById('pdfBtn').addEventListener('click', async function(e) {
