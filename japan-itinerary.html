@@ -1,0 +1,1063 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Japan Trip — April 2026</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&family=Noto+Serif+JP:wght@300;400&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #1a1410;
+    --red: #c0392b;
+    --red-light: #e8d5d3;
+    --gold: #b5953a;
+    --cream: #f9f5ef;
+    --paper: #f2ece2;
+    --mist: #e8e2d8;
+    --grey: #8a8278;
+    --tokyo: #2c4a6e;
+    --kyoto: #5a3e28;
+    --osaka: #2e5e4e;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { overflow-x: hidden; max-width: 100vw; }
+
+  body {
+    background: var(--cream);
+    color: var(--ink);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.65;
+  }
+
+  /* HERO */
+  .hero {
+    background: var(--ink);
+    color: var(--cream);
+    padding: 80px 60px 70px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .hero::before {
+    content: '日本';
+    position: absolute;
+    right: -20px;
+    top: -30px;
+    font-family: 'Noto Serif JP', serif;
+    font-size: 260px;
+    font-weight: 300;
+    color: rgba(255,255,255,0.04);
+    letter-spacing: -10px;
+    line-height: 1;
+    user-select: none;
+  }
+
+  .hero-eyebrow {
+    font-family: 'DM Mono', monospace;
+  }
+
+  .hero-title {
+    font-size: clamp(48px, 7vw, 90px);
+    font-weight: 300;
+    line-height: 1.0;
+    letter-spacing: -1px;
+    margin-bottom: 24px;
+  }
+
+  .hero-title em {
+    font-style: italic;
+    color: var(--gold);
+  }
+
+  .hero-meta {
+    display: flex;
+    gap: 48px;
+    flex-wrap: wrap;
+    margin-top: 36px;
+    padding-top: 32px;
+    border-top: 1px solid rgba(255,255,255,0.1);
+  }
+
+  .hero-meta-item {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .hero-meta-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 9px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: var(--grey);
+  }
+
+  .hero-meta-value {
+    font-size: 16px;
+    font-weight: 300;
+    color: var(--cream);
+  }
+
+  /* ROUTE BAR */
+  .route-bar {
+    background: var(--red);
+    padding: 14px 60px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 2px;
+    color: rgba(255,255,255,0.9);
+  }
+
+  .route-stop {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .route-dot {
+    width: 7px; height: 7px;
+    background: rgba(255,255,255,0.6);
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  .route-arrow {
+    color: rgba(255,255,255,0.4);
+    font-size: 14px;
+  }
+
+  /* MAIN LAYOUT */
+  .main {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 60px 40px 100px;
+  }
+
+  /* PHASE HEADER */
+  .phase {
+    margin-bottom: 60px;
+  }
+
+  .phase-header {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 28px;
+    align-items: start;
+    margin-bottom: 32px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid var(--ink);
+  }
+
+  .phase-num {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 3px;
+    color: var(--grey);
+    padding-top: 6px;
+    writing-mode: vertical-rl;
+    text-transform: uppercase;
+  }
+
+  .phase-title-block {}
+
+  .phase-location {
+    font-family: 'Noto Serif JP', serif;
+    font-size: 13px;
+    color: var(--gold);
+    margin-bottom: 4px;
+    letter-spacing: 2px;
+  }
+
+  .phase-name {
+    font-size: clamp(36px, 5vw, 58px);
+    font-weight: 300;
+    line-height: 1.05;
+    letter-spacing: -0.5px;
+  }
+
+  .phase-dates {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    color: var(--grey);
+    margin-top: 8px;
+    letter-spacing: 1px;
+  }
+
+  .phase-tag {
+    display: inline-block;
+    padding: 3px 10px;
+    border-radius: 2px;
+    font-family: 'DM Mono', monospace;
+    font-size: 9px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-top: 10px;
+  }
+  .tag-tokyo { background: var(--tokyo); color: white; }
+  .tag-kyoto { background: var(--kyoto); color: white; }
+  .tag-osaka { background: var(--osaka); color: white; }
+
+  /* DAY CARDS */
+  .days-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+
+  .day-card {
+    display: grid;
+    grid-template-columns: 100px 1fr;
+    background: white;
+    border: 1px solid var(--mist);
+    transition: box-shadow 0.2s;
+  }
+
+  .day-card:hover {
+    box-shadow: 4px 4px 0 var(--mist);
+  }
+
+  .day-card.special {
+    border-left: 4px solid var(--red);
+  }
+
+  .day-card.transit {
+    background: var(--paper);
+    border-left: 4px solid var(--gold);
+  }
+
+  .day-left {
+    padding: 24px 20px;
+    border-right: 1px solid var(--mist);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: center;
+    background: rgba(0,0,0,0.015);
+  }
+
+  .day-date-num {
+    font-size: 38px;
+    font-weight: 300;
+    line-height: 1;
+    color: var(--ink);
+  }
+
+  .day-date-month {
+    font-family: 'DM Mono', monospace;
+    font-size: 9px;
+    letter-spacing: 2px;
+    color: var(--grey);
+    margin-top: 2px;
+  }
+
+  .day-weekday {
+    font-family: 'DM Mono', monospace;
+    font-size: 8px;
+    letter-spacing: 1px;
+    color: var(--mist);
+    margin-top: 8px;
+    text-transform: uppercase;
+    color: var(--grey);
+  }
+
+  .day-badge {
+    margin-top: 12px;
+    padding: 2px 7px;
+    font-family: 'DM Mono', monospace;
+    font-size: 8px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    border-radius: 2px;
+  }
+
+  .badge-daytrip { background: var(--red); color: white; }
+  .badge-transit { background: var(--gold); color: white; }
+  .badge-arrival { background: var(--tokyo); color: white; }
+
+  .day-right {
+    padding: 24px 28px;
+  }
+
+  .day-title {
+    font-size: 21px;
+    font-weight: 400;
+    margin-bottom: 10px;
+    color: var(--ink);
+  }
+
+  .day-activities {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .day-activities li {
+    font-size: 15px;
+    color: #3a3530;
+    padding-left: 22px;
+    position: relative;
+  }
+
+  .day-activities li::before {
+    content: '—';
+    color: var(--gold);
+    font-size: 12px;
+    position: absolute;
+    left: 0;
+    top: 2px;
+  }
+
+  .day-activities li strong {
+    font-weight: 600;
+    color: var(--ink);
+  }
+
+  .day-note {
+    margin-top: 12px;
+    padding: 10px 14px;
+    background: var(--paper);
+    border-left: 3px solid var(--gold);
+    font-size: 14px;
+    color: var(--grey);
+    font-style: italic;
+  }
+
+  .day-transit-info {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-top: 14px;
+  }
+
+  .transit-item {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    padding: 10px 16px;
+    background: white;
+    border: 1px solid var(--mist);
+  }
+
+  .transit-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 8px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--grey);
+  }
+
+  .transit-value {
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--ink);
+  }
+
+  /* LOGISTICS SECTION */
+  .logistics {
+    margin-top: 80px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2px;
+  }
+
+  .logistics-card {
+    background: white;
+    border: 1px solid var(--mist);
+    padding: 32px 28px;
+  }
+
+  .logistics-card h3 {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 18px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--mist);
+  }
+
+  .logistics-card ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 9px;
+  }
+
+  .logistics-card ul li {
+    font-size: 15px;
+    color: #3a3530;
+    padding-left: 18px;
+    position: relative;
+  }
+
+  .logistics-card ul li::before {
+    content: '◆';
+    font-size: 7px;
+    color: var(--red);
+    position: absolute;
+    left: 0;
+    top: 7px;
+  }
+
+  /* FOOTER */
+  .footer {
+    background: var(--ink);
+    color: var(--grey);
+    text-align: center;
+    padding: 32px;
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 2px;
+  }
+
+  .footer span { color: var(--gold); }
+
+  /* PDF BUTTON */
+  .pdf-btn {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    background: var(--red);
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    cursor: pointer;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+    transition: background 0.2s;
+    z-index: 100;
+  }
+  .pdf-btn:hover { background: var(--ink); }
+
+  @media print {
+    .pdf-btn { display: none; }
+    .hero { break-after: avoid; }
+    .phase { break-inside: avoid; }
+    .day-card { break-inside: avoid; }
+  }
+
+  /* Tablet */
+  @media (max-width: 900px) {
+    .logistics { grid-template-columns: 1fr; }
+  }
+
+  /* Mobile */
+  @media (max-width: 700px) {
+    .hero { padding: 40px 20px 36px; }
+    .hero::before { font-size: 140px; right: -10px; top: -10px; }
+    .hero-title { margin-bottom: 16px; }
+    .hero-meta { gap: 16px 32px; margin-top: 24px; padding-top: 20px; }
+
+    .route-bar {
+      padding: 12px 20px;
+      gap: 6px 10px;
+      font-size: 10px;
+      letter-spacing: 1px;
+    }
+    .route-stop { gap: 6px; }
+    .route-arrow { font-size: 12px; }
+
+    .main { padding: 32px 16px 60px; }
+
+    .phase { margin-bottom: 40px; }
+    .phase-header {
+      grid-template-columns: 1fr;
+      gap: 8px;
+      margin-bottom: 24px;
+    }
+    .phase-num {
+      writing-mode: horizontal-tb;
+      padding-top: 0;
+      font-size: 10px;
+    }
+    .phase-dates { font-size: 10px; }
+
+    .day-card { grid-template-columns: 1fr; }
+    .day-left {
+      flex-direction: row;
+      align-items: center;
+      gap: 12px;
+      padding: 12px 20px;
+      border-right: none;
+      border-bottom: 1px solid var(--mist);
+    }
+    .day-date-num { font-size: 26px; }
+    .day-date-month { font-size: 9px; }
+    .day-weekday { margin-top: 0; }
+    .day-badge { margin-top: 0; margin-left: auto; }
+    .day-right { padding: 18px 20px; }
+    .day-title { font-size: 18px; margin-bottom: 8px; }
+    .day-activities li { font-size: 14px; }
+    .day-note { font-size: 13px; }
+
+    .day-transit-info { gap: 8px; }
+    .transit-item { padding: 8px 12px; flex: 1 1 auto; min-width: 80px; }
+    .transit-value { font-size: 13px; }
+
+    .logistics-card { padding: 24px 20px; }
+    .logistics-card ul li { font-size: 14px; }
+
+    .footer { padding: 24px 16px; font-size: 9px; }
+  }
+
+  /* Small phones */
+  @media (max-width: 400px) {
+    .hero { padding: 32px 16px 28px; }
+    .hero-meta { flex-direction: column; gap: 12px; }
+    .main { padding: 24px 12px 48px; }
+    .day-right { padding: 14px 16px; }
+    .day-transit-info { flex-direction: column; }
+    .transit-item { min-width: 0; }
+  }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="hero-eyebrow">Travel Itinerary · 6 Persons · 17 Days</div>
+  <h1 class="hero-title">Japan<br><em>Spring</em> 2026</h1>
+  <div class="hero-meta">
+    <div class="hero-meta-item">
+      <span class="hero-meta-label">Arrival</span>
+      <span class="hero-meta-value">11 Apr (×4) · 12 Apr (×2)</span>
+    </div>
+    <div class="hero-meta-item">
+      <span class="hero-meta-label">Return</span>
+      <span class="hero-meta-value">26 Apr (×4) · 27 Apr (×2)</span>
+    </div>
+    <div class="hero-meta-item">
+      <span class="hero-meta-label">Regions</span>
+      <span class="hero-meta-value">Tokyo · Kyoto · Osaka</span>
+    </div>
+    <div class="hero-meta-item">
+      <span class="hero-meta-label">Day Trips</span>
+      <span class="hero-meta-value">Nara · Hiroshima</span>
+    </div>
+  </div>
+</div>
+
+<div class="route-bar">
+  <div class="route-stop"><span class="route-dot"></span> HANEDA ARRIVAL</div>
+  <span class="route-arrow">›</span>
+  <div class="route-stop"><span class="route-dot"></span> ASAKUSA / TOKYO</div>
+  <span class="route-arrow">›</span>
+  <div class="route-stop"><span class="route-dot"></span> NARITA → KANSAI</div>
+  <span class="route-arrow">›</span>
+  <div class="route-stop"><span class="route-dot"></span> KYOTO + NARA</div>
+  <span class="route-arrow">›</span>
+  <div class="route-stop"><span class="route-dot"></span> OSAKA + HIROSHIMA</div>
+  <span class="route-arrow">›</span>
+  <div class="route-stop"><span class="route-dot"></span> KANSAI → NARITA</div>
+  <span class="route-arrow">›</span>
+  <div class="route-stop"><span class="route-dot"></span> IKEBUKURO / TOKYO</div>
+</div>
+
+<div class="main">
+
+  <!-- PHASE 1: ASAKUSA -->
+  <div class="phase">
+    <div class="phase-header">
+      <div class="phase-num">Phase 01</div>
+      <div class="phase-title-block">
+        <div class="phase-location">東京 · 浅草</div>
+        <div class="phase-name">Asakusa<br>& Tokyo</div>
+        <div class="phase-dates">11 April — 14 April · 3 nights</div>
+        <span class="phase-tag tag-tokyo">Tokyo</span>
+      </div>
+    </div>
+
+    <div class="days-grid">
+
+      <div class="day-card transit">
+        <div class="day-left">
+          <div class="day-date-num">11</div>
+          <div class="day-date-month">APR</div>
+          <div class="day-weekday">Fri</div>
+          <span class="day-badge badge-arrival">Arrival ×4</span>
+        </div>
+        <div class="day-right">
+          <div class="day-title">Early Arrivals — 4 People Land in Tokyo</div>
+          <ul class="day-activities">
+            <li>Flight times TBD — 4 people arrive at Haneda Airport</li>
+            <li>Transfer to Asakusa hotel; check in and drop luggage</li>
+            <li>Free afternoon & evening to explore at leisure — jet lag recovery day</li>
+          </ul>
+          <div class="day-note">💡 Buy a <strong>Suica / Pasmo IC card</strong> at Haneda on arrival — you'll use it everywhere.</div>
+          <div class="day-transit-info">
+            <div class="transit-item"><span class="transit-label">Flight</span><span class="transit-value">Times TBD</span></div>
+            <div class="transit-item"><span class="transit-label">Transfer</span><span class="transit-value">~45 min to Asakusa</span></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="day-card transit">
+        <div class="day-left">
+          <div class="day-date-num">12</div>
+          <div class="day-date-month">APR</div>
+          <div class="day-weekday">Sat</div>
+          <span class="day-badge badge-arrival">Arrival ×2</span>
+        </div>
+        <div class="day-right">
+          <div class="day-title">Remaining 2 Arrive · Settle In</div>
+          <ul class="day-activities">
+            <li><strong>10:50</strong> — Land at Haneda Airport; clear customs & immigration (allow 1–1.5 hrs)</li>
+            <li>Take the <strong>Tokyo Monorail or Keikyu Line</strong> to central Tokyo (~30 min)</li>
+            <li>Check in to your Asakusa hotel / drop luggage</li>
+            <li><strong>~14:00</strong> — Stroll <strong>Kappabashi Street</strong>: Tokyo's kitchen supply district right near your hotel — fascinating Japanese knives, cookware, and plastic food displays</li>
+            <li>Evening stroll along <strong>Sumida River</strong>; golden hour view of Tokyo Skytree</li>
+            <li>Casual dinner in Asakusa — try <strong>tempura</strong> or <strong>monjayaki</strong> in the local alleys; easy first night</li>
+          </ul>
+          <div class="day-note">💡 Buy a <strong>Suica / Pasmo IC card</strong> at Haneda — you'll use it everywhere for all local transport. Keep today relaxed — tomorrow is your real first full day.</div>
+          <div class="day-transit-info">
+            <div class="transit-item"><span class="transit-label">Arrive</span><span class="transit-value">Haneda 10:50</span></div>
+            <div class="transit-item"><span class="transit-label">Transfer</span><span class="transit-value">~45 min to Asakusa</span></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="day-card">
+        <div class="day-left">
+          <div class="day-date-num">13</div>
+          <div class="day-date-month">APR</div>
+          <div class="day-weekday">Sun</div>
+        </div>
+        <div class="day-right">
+          <div class="day-title">Asakusa & East Tokyo</div>
+          <p style="font-size: 14px; color: var(--grey); font-style: italic; margin-bottom: 10px;">A relaxed day staying close to base — soak in the neighbourhood, no rush, no cross-city metro marathons on day two of jet lag.</p>
+          <ul class="day-activities">
+            <li><strong>09:00</strong> — <strong>Senso-ji Temple & Nakamise shopping street</strong>: the iconic thunder gate, incense hall, and the full approach lined with street food and souvenir stalls. Go at opening for thinner crowds, especially on a Sunday morning.</li>
+            <li><strong>10:30</strong> — Wander the <strong>backstreets west of Senso-ji</strong>: small neighbourhood shrines, traditional sweet shops (try ningyo-yaki), and old craft workshops the tourists walk right past</li>
+            <li><strong>12:00</strong> — Walk south to <strong>Kuramae</strong> (~15 min along the river): Tokyo's artisan/craft neighbourhood — small-batch coffee roasters, leather goods workshops, handmade stationery. Grab lunch here at one of the quiet cafés</li>
+            <li><strong>14:00</strong> — <strong>Ginza Line to Omotesando</strong> (~30 min, direct, no transfers): visit the <strong>Apple Store Omotesando</strong> flagship</li>
+            <li><strong>15:30</strong> — Ginza Line back to Asakusa area</li>
+            <li><strong>16:00</strong> — <strong>Ryogoku</strong> (one stop from Asakusa): the sumo district — Kokugikan arena, Edo-Tokyo Museum area, and the riverside. Even outside tournament season the neighbourhood has great atmosphere</li>
+            <li><strong>18:30</strong> — Dinner on <strong>Hoppy Street</strong>: Asakusa's lively izakaya strip with outdoor seating, cheap drinks, and yakitori — perfect for the group's first proper night out together</li>
+          </ul>
+          <div class="day-note">💡 Everything today is walking distance or one train stop, except the Omotesando detour which is a single direct metro line. Great pacing for jet lag.</div>
+        </div>
+      </div>
+
+      <div class="day-card transit">
+        <div class="day-left">
+          <div class="day-date-num">14</div>
+          <div class="day-date-month">APR</div>
+          <div class="day-weekday">Mon</div>
+          <span class="day-badge badge-transit">Transit</span>
+        </div>
+        <div class="day-right">
+          <div class="day-title">Tokyo Skytree → Narita → Kansai</div>
+          <ul class="day-activities">
+            <li><strong>Early morning</strong> — <strong>Tokyo Skytree</strong> at opening (8:00); spectacular views before the crowds arrive</li>
+            <li><strong>~09:30</strong> — Head to <strong>Narita Airport</strong> (allow ~90 min from Asakusa via Keisei Skyliner)</li>
+            <li><strong>12:00</strong> — Flight <strong>Narita → Kansai Osaka</strong> (~1.5 hrs)</li>
+            <li><strong>~15:15</strong> — Transfer from Kansai Airport to <strong>Kyoto</strong> (~75 min via Haruka Express)</li>
+            <li>Check in to Kyoto hotel; freshen up</li>
+            <li><strong>19:00</strong> — Explore <strong>Gion district</strong>: lantern-lit streets, tea houses, chance of spotting a geiko or maiko</li>
+          </ul>
+          <div class="day-note">⚠️ Depart Asakusa by <strong>09:00 at latest</strong> to reach Narita comfortably. Take the <strong>Keisei Skyliner</strong> — book reserved seats for 6 in advance.</div>
+          <div class="day-transit-info">
+            <div class="transit-item"><span class="transit-label">Flight</span><span class="transit-value">Narita 12:00</span></div>
+            <div class="transit-item"><span class="transit-label">Arrive</span><span class="transit-value">Kansai 13:45</span></div>
+            <div class="transit-item"><span class="transit-label">To Kyoto</span><span class="transit-value">Haruka ~75 min</span></div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- PHASE 2: KYOTO -->
+  <div class="phase">
+    <div class="phase-header">
+      <div class="phase-num">Phase 02</div>
+      <div class="phase-title-block">
+        <div class="phase-location">京都</div>
+        <div class="phase-name">Kyoto<br>& <em>Nara</em></div>
+        <div class="phase-dates">14 April — 17 April · 3 nights</div>
+        <span class="phase-tag tag-kyoto">Kyoto</span>
+      </div>
+    </div>
+
+    <div class="days-grid">
+
+      <div class="day-card">
+        <div class="day-left">
+          <div class="day-date-num">15</div>
+          <div class="day-date-month">APR</div>
+          <div class="day-weekday">Tue</div>
+        </div>
+        <div class="day-right">
+          <div class="day-title">Arashiyama & Fushimi Inari</div>
+          <ul class="day-activities">
+            <li><strong>08:00</strong> — <strong>Arashiyama Bamboo Grove</strong>: go early to beat crowds; walk to <strong>Tenryu-ji garden</strong></li>
+            <li><strong>11:00</strong> — <strong>Monkey Park</strong> with panoramic views of Kyoto; lunch at riverside Arashiyama restaurants</li>
+            <li><strong>13:30</strong> — <strong>Sanjusangendo</strong>: breathtaking hall of 1,001 life-size golden Kannon statues — one of the most visually stunning rooms in all of Japan (30–40 min)</li>
+            <li><strong>14:30</strong> — <strong>Fushimi Inari Taisha</strong>: the famous thousands of torii gates; hike as far up the mountain as energy allows</li>
+            <li><strong>18:00</strong> — <strong>Nishiki Market</strong>: Kyoto's famous covered food market — graze on street snacks, pickles, fresh tofu, and local specialties while walking the narrow lane</li>
+            <li><strong>19:30</strong> — Dinner in the area (try kaiseki or yudofu tofu cuisine)</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="day-card special">
+        <div class="day-left">
+          <div class="day-date-num">16</div>
+          <div class="day-date-month">APR</div>
+          <div class="day-weekday">Wed</div>
+          <span class="day-badge badge-daytrip">Day Trip</span>
+        </div>
+        <div class="day-right">
+          <div class="day-title">🦌 Day Trip to Nara & Uji</div>
+          <ul class="day-activities">
+            <li><strong>09:00</strong> — Depart Kyoto Station on JR Nara Line (~45 min, ¥720)</li>
+            <li><strong>10:00</strong> — <strong>Nara Park</strong>: meet the famous <strong>free-roaming sika deer</strong>; buy shika senbei (deer crackers)</li>
+            <li><strong>11:00</strong> — <strong>Todai-ji Temple</strong>: the massive bronze <strong>Great Buddha (Daibutsu)</strong>, one of Japan's most iconic sights; try squeezing through the wooden pillar hole!</li>
+            <li><strong>12:30</strong> — Lunch in Nara; try local kakinoha-zushi or soba</li>
+            <li><strong>14:00</strong> — <strong>Kasuga Taisha</strong>: atmospheric Shinto shrine with hundreds of stone lanterns in a forest setting</li>
+            <li><strong>14:45</strong> — <strong>Nakatanidou</strong>: famous shop where they pound fresh mochi by hand at lightning speed right in front of you — one of Nara's most fun street food moments</li>
+            <li><strong>15:15</strong> — <strong>Naramachi</strong>: historic merchant district; browse craft shops and grab matcha sweets</li>
+            <li><strong>16:00</strong> — Train to <strong>Uji</strong> (~45–50 min from Nara via transfer): famous for green tea and the stunning <strong>Byodo-in Temple</strong> (on the ¥10 coin); grab a matcha soft serve on the way</li>
+            <li><strong>18:00</strong> — Return to Kyoto for dinner (~20 min from Uji)</li>
+          </ul>
+          <div class="day-note">💡 Nara is very walkable — everything is within ~2 km. Great for the whole group. Book Todai-ji tickets online to skip lines. Note: Nara → Uji requires a transfer (no direct train) so allow ~45–50 min, not 30.</div>
+          <div class="day-transit-info">
+            <div class="transit-item"><span class="transit-label">Kyoto → Nara</span><span class="transit-value">JR Nara Line ~45 min</span></div>
+            <div class="transit-item"><span class="transit-label">Nara → Uji</span><span class="transit-value">~45–50 min (with transfer)</span></div>
+            <div class="transit-item"><span class="transit-label">Uji → Kyoto</span><span class="transit-value">~20 min</span></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="day-card transit">
+        <div class="day-left">
+          <div class="day-date-num">17</div>
+          <div class="day-date-month">APR</div>
+          <div class="day-weekday">Thu</div>
+          <span class="day-badge badge-transit">Transit</span>
+        </div>
+        <div class="day-right">
+          <div class="day-title">Kiyomizu-dera, Kyoto Classics → Osaka</div>
+          <ul class="day-activities">
+            <li><strong>07:00</strong> — <strong>Kiyomizu-dera Temple</strong>: one of Kyoto's most iconic temples on a wooden hillside platform; magical at dawn before the crowds arrive (opens 06:00)</li>
+            <li><strong>08:00</strong> — Walk <strong>Sannenzaka & Ninenzaka</strong>: beautiful cobblestone streets winding down from the temple; souvenir shops, matcha cafés, traditional townhouses</li>
+            <li><strong>09:30</strong> — <strong>Kinkaku-ji (Golden Pavilion)</strong>: iconic gold-leaf temple reflected in a tranquil pond</li>
+            <li><strong>11:00</strong> — <strong>Nijo Castle</strong>: shogun's Kyoto residence; famous "nightingale floors" that squeak when walked on</li>
+            <li><strong>~12:00</strong> — Pick up luggage and take the <strong>Hankyu Line</strong> to Osaka (~45 min, very affordable)</li>
+            <li>Check in to Osaka hotel in <strong>Namba / Shinsaibashi</strong> area</li>
+            <li><strong>19:00</strong> — <strong>Dotonbori</strong>: Osaka's electric food & entertainment canal; try <strong>takoyaki</strong> (octopus balls), <strong>okonomiyaki</strong>, and <strong>kushikatsu</strong></li>
+          </ul>
+          <div class="day-note">💡 <strong>Luggage tip</strong>: Use <strong>takuhaibin</strong> (luggage forwarding) — send your bags from your Kyoto hotel to your Osaka hotel the evening before for ~¥2,000/bag. Ask the hotel front desk on Apr 16. This way you sightsee all morning unburdened and just take the train to Osaka with a day bag.</div>
+          <div class="day-transit-info">
+            <div class="transit-item"><span class="transit-label">Kyoto → Osaka</span><span class="transit-value">Hankyu Line ~45 min</span></div>
+            <div class="transit-item"><span class="transit-label">Cost</span><span class="transit-value">¥410 each way</span></div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- PHASE 3: OSAKA -->
+  <div class="phase">
+    <div class="phase-header">
+      <div class="phase-num">Phase 03</div>
+      <div class="phase-title-block">
+        <div class="phase-location">大阪</div>
+        <div class="phase-name">Osaka<br>& <em>Hiroshima</em></div>
+        <div class="phase-dates">17 April — 22 April · 5 nights</div>
+        <span class="phase-tag tag-osaka">Osaka</span>
+      </div>
+    </div>
+
+    <div class="days-grid">
+
+      <div class="day-card">
+        <div class="day-left">
+          <div class="day-date-num">18</div>
+          <div class="day-date-month">APR</div>
+          <div class="day-weekday">Fri</div>
+        </div>
+        <div class="day-right">
+          <div class="day-title">Osaka Castle & Shinsekai</div>
+          <ul class="day-activities">
+            <li><strong>09:00</strong> — <strong>Osaka Castle</strong>: the castle grounds, museum inside the keep, and the lovely park surrounding it</li>
+            <li><strong>12:00</strong> — <strong>Kuromon Ichiba Market</strong>: Osaka's "Kitchen" — fresh seafood, wagyu skewers, and local snacks</li>
+            <li><strong>14:00</strong> — <strong>Shinsekai district</strong>: retro 1950s-aesthetic neighborhood; try kushikatsu (deep fried skewers — the Osaka invention)</li>
+            <li><strong>18:00</strong> — <strong>Umeda Sky Building</strong>: spectacular open-air observation platform atop two linked towers; stay for sunset</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="day-card special">
+        <div class="day-left">
+          <div class="day-date-num">19</div>
+          <div class="day-date-month">APR</div>
+          <div class="day-weekday">Sat</div>
+          <span class="day-badge badge-daytrip">Day Trip</span>
+        </div>
+        <div class="day-right">
+          <div class="day-title">🕊️ Day Trip to Hiroshima & Miyajima</div>
+          <ul class="day-activities">
+            <li><strong>07:30</strong> — Depart Osaka (Shin-Osaka) on <strong>Shinkansen</strong> to Hiroshima (~1 hr 20 min)</li>
+            <li><strong>09:00–12:00</strong> — <strong>Hiroshima Peace Memorial Park & Museum</strong>: deeply moving; the A-Bomb Dome, the Children's Peace Monument; allow 2–3 hours</li>
+            <li><strong>12:30</strong> — Lunch in Hiroshima; try Hiroshima-style <strong>okonomiyaki</strong> and <strong>oysters</strong> (Hiroshima is Japan's oyster capital)</li>
+            <li><strong>14:00</strong> — Head to <strong>Miyajima Island</strong> (Itsukushima): allow 30–40 min to reach the ferry terminal from the city centre, plus ~10 min ferry ride. Realistic arrival on the island ~14:45–15:00</li>
+            <li>Explore the <strong>floating torii gate</strong> of Itsukushima Shrine; roam with free deer; enjoy the island at a relaxed pace</li>
+            <li><strong>18:00</strong> — Ferry back; <strong>Shinkansen back to Osaka</strong>, arrive ~20:00–20:30</li>
+          </ul>
+          <div class="day-note">⚠️ This is a full, emotionally significant day. The Peace Museum is essential but heavy — take breaks. Note: Mt. Misen hike (2–3 hrs with ropeway) is only realistic if you skip something else or start earlier. The shrine area and torii gate alone are well worth the trip. Book Shinkansen in advance for 6 people.</div>
+          <div class="day-transit-info">
+            <div class="transit-item"><span class="transit-label">Shinkansen</span><span class="transit-value">~1 hr 20 min</span></div>
+            <div class="transit-item"><span class="transit-label">Book ahead</span><span class="transit-value">¥10,520 each way</span></div>
+            <div class="transit-item"><span class="transit-label">Miyajima Ferry</span><span class="transit-value">~10 min / ¥200</span></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="day-card">
+        <div class="day-left">
+          <div class="day-date-num">20</div>
+          <div class="day-date-month">APR</div>
+          <div class="day-weekday">Sun</div>
+        </div>
+        <div class="day-right">
+          <div class="day-title">Universal Studios Japan</div>
+          <ul class="day-activities">
+            <li><strong>08:30</strong> — <strong>Universal Studios Japan (USJ)</strong>: The Wizarding World of Harry Potter, Super Nintendo World, and Hollywood area; book tickets and Express Passes well in advance</li>
+            <li>Excellent choice for a group of 6 — very fun regardless of age</li>
+            <li><strong>19:30</strong> — Back to Dotonbori or Namba for dinner; great street food crawl</li>
+          </ul>
+          <div class="day-note">💡 Alternatively, if USJ isn't the group's style, spend the day exploring Namba / Amerika-mura (American Village) shopping, or take a half-day trip to Kobe for Kobe beef lunch.</div>
+        </div>
+      </div>
+
+      <div class="day-card">
+        <div class="day-left">
+          <div class="day-date-num">21</div>
+          <div class="day-date-month">APR</div>
+          <div class="day-weekday">Mon</div>
+        </div>
+        <div class="day-right">
+          <div class="day-title">Osaka Flex Day — Food, Shopping & Night Life</div>
+          <ul class="day-activities">
+            <li><strong>10:00</strong> — <strong>Shinsaibashi & Amerikamura</strong> shopping; great for streetwear, vintage, and souvenirs</li>
+            <li><strong>13:30</strong> — <strong>Osaka Aquarium Kaiyukan</strong> (one of the world's best; features a whale shark) — great for families or easy afternoon</li>
+            <li><strong>19:00</strong> — Farewell Kansai dinner: splurge on a proper <strong>kaiseki</strong> or teppanyaki restaurant; celebrate the Kansai leg of the trip</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="day-card transit">
+        <div class="day-left">
+          <div class="day-date-num">22</div>
+          <div class="day-date-month">APR</div>
+          <div class="day-weekday">Tue</div>
+          <span class="day-badge badge-transit">Transit</span>
+        </div>
+        <div class="day-right">
+          <div class="day-title">Osaka → Kansai Airport → Narita → Ikebukuro</div>
+          <ul class="day-activities">
+            <li><strong>Until 16:00</strong> — Morning shopping or relax; check out of hotel by midday</li>
+            <li><strong>17:00</strong> — Head to Kansai Airport (Nankai Line, ~40 min from Namba)</li>
+            <li><strong>21:00</strong> — Flight <strong>Kansai → Narita</strong> (~1.5 hrs)</li>
+            <li><strong>~00:00</strong> — Transfer from Narita to Ikebukuro</li>
+          </ul>
+          <div class="day-note">⚠️ <strong>Late arrival warning</strong>: You land Narita at 22:25. After baggage claim you're looking at ~23:00–23:15. The last Keisei Skyliner departs ~21:30 and Access Express trains end around 23:00 — you will very likely miss the last trains to central Tokyo. Options: (1) <strong>Limousine Bus</strong> — runs slightly later, check schedules; (2) <strong>Taxi</strong> — expect ¥20,000+; (3) <strong>Narita-area hotel</strong> — sleep near the airport and take a morning train to Ikebukuro, stress-free. Option 3 is strongly recommended for a group of 6 after a long travel day. Whichever you choose, confirm late check-in at your Ikebukuro hotel.</div>
+          <div class="day-transit-info">
+            <div class="transit-item"><span class="transit-label">Flight</span><span class="transit-value">Kansai 21:00</span></div>
+            <div class="transit-item"><span class="transit-label">Arrive</span><span class="transit-value">Narita 22:25</span></div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- PHASE 4: IKEBUKURO -->
+  <div class="phase">
+    <div class="phase-header">
+      <div class="phase-num">Phase 04</div>
+      <div class="phase-title-block">
+        <div class="phase-location">東京 · 池袋</div>
+        <div class="phase-name">Ikebukuro<br>& Tokyo</div>
+        <div class="phase-dates">22 April — 27 April · 5 nights</div>
+        <span class="phase-tag tag-tokyo">Tokyo</span>
+      </div>
+    </div>
+
+    <div class="days-grid">
+
+      <div class="day-card">
+        <div class="day-left">
+          <div class="day-date-num">23</div>
+          <div class="day-date-month">APR</div>
+          <div class="day-weekday">Wed</div>
+        </div>
+        <div class="day-right">
+          <div class="day-title">Shinjuku Gyoen, Meiji Shrine, Harajuku & Shinjuku</div>
+          <ul class="day-activities">
+            <li><strong>09:00</strong> — <strong>Shinjuku Gyoen</strong>: one of Tokyo's most beautiful gardens — late cherry blossoms possible mid-April; peaceful and spacious (opens 9:00)</li>
+            <li><strong>10:30</strong> — <strong>Meiji Jingu Shrine</strong>: tranquil forested grounds in the heart of the city</li>
+            <li><strong>12:00</strong> — <strong>Harajuku & Omotesando</strong>: Takeshita Street, the most architecturally impressive shopping boulevard in Japan; lunch here</li>
+            <li><strong>15:00</strong> — <strong>Shinjuku</strong>: Kabukicho entertainment district by day; the Omoide Yokocho (Memory Lane) tiny yakitori alleys</li>
+            <li><strong>20:00</strong> — <strong>Tokyo Metropolitan Government Building</strong>: free observation deck with night views; then ramen in Shinjuku</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="day-card">
+        <div class="day-left">
+          <div class="day-date-num">24</div>
+          <div class="day-date-month">APR</div>
+          <div class="day-weekday">Thu</div>
+        </div>
+        <div class="day-right">
+          <div class="day-title">Shibuya & Daikanyama</div>
+          <ul class="day-activities">
+            <li><strong>09:00</strong> — <strong>Shibuya Sky</strong> (rooftop observation deck) for clear morning views — book the sunset slot with 2-drink option for best experience; then walk the famous scramble crossing from street level</li>
+            <li><strong>10:30</strong> — <strong>Udagawacho backstreets</strong>: Shibuya's hip side-street neighbourhood; plus the enormous <strong>Don Quijote</strong> — the ultimate Japanese discount store for cosmetics, snacks, electronics and souvenirs</li>
+            <li><strong>11:30</strong> — <strong>Daikanyama & Nakameguro</strong>: Tsutaya Books, chic cafés, the canal walk — Tokyo's most relaxed neighbourhoods; lunch here</li>
+            <li><strong>14:30</strong> — <strong>Ebisu Garden Place & Yebisu Beer Museum</strong> (free, fun for the group)</li>
+            <li><strong>18:00</strong> — <strong>Roppongi</strong>: Mori Art Museum (contemporary art with city views) or izakaya evening</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="day-card">
+        <div class="day-left">
+          <div class="day-date-num">25</div>
+          <div class="day-date-month">APR</div>
+          <div class="day-weekday">Fri</div>
+        </div>
+        <div class="day-right">
+          <div class="day-title">Akihabara, Ueno & Asakusa Revisit</div>
+          <ul class="day-activities">
+            <li><strong>09:30</strong> — <strong>Akihabara</strong>: multi-floor electronics shops, anime stores, retro game arcades — allow time to browse</li>
+            <li><strong>12:30</strong> — <strong>Ueno</strong>: Ameyoko market street for souvenirs and street food; lively market atmosphere; lunch here</li>
+            <li><strong>14:00</strong> — <strong>Nezu Shrine</strong>: calm, non-touristy shrine with lovely gardens and a small torii tunnel — a hidden gem between Ueno and Asakusa</li>
+            <li><strong>15:30</strong> — Return to <strong>Asakusa</strong> for any shopping missed; Kaminarimon Gate souvenir photos</li>
+            <li><strong>18:30</strong> — Optional: <strong>teamLab Planets Toyosu</strong> or <strong>teamLab Borderless Azabudai</strong> — immersive digital art (book tickets in advance)</li>
+            <li><strong>20:30</strong> — 🥂 <strong>Farewell dinner for all 6</strong> — splurge on sushi omakase or wagyu yakiniku; last night together as a group</li>
+            <li><strong>22:30</strong> — 🚗 <strong>Akihabara UDX car meetup</strong> (Fridays & Saturdays): informal gathering of JDM and modified cars in the UDX building parking lot — a unique Tokyo late-night bonus for car lovers</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="day-card">
+        <div class="day-left">
+          <div class="day-date-num">26</div>
+          <div class="day-date-month">APR</div>
+          <div class="day-weekday">Sat</div>
+        </div>
+        <div class="day-right">
+          <div class="day-title">Tsukiji, Last Tokyo — Group Parts Ways</div>
+          <ul class="day-activities">
+            <li><strong>08:00</strong> — <strong>Tsukiji Outer Market</strong>: the world-famous seafood market; perfect for a breakfast of fresh sushi, tamagoyaki, and street snacks before the crowds arrive</li>
+            <li><strong>Option A</strong> — <strong>DisneySea Tokyo</strong> (the most beautiful theme park in the world — must book far ahead)</li>
+            <li><strong>Option B — Kawaguchiko & Mt. Fuji</strong>: bus to Kawaguchiko (~1.5 hrs) → <strong>Arakurayama Sengen Park</strong> (the iconic pagoda-with-Fuji photo) → <strong>Mt. Fuji Panoramic Ropeway</strong> → <strong>Oishi Park</strong> lakeside walk → bus back to Tokyo by 17:00. Book bus in advance.</li>
+            <li><strong>Option C</strong> — <strong>Ikebukuro</strong> itself: Sunshine City, the giant Pokémon Center, anime flagship stores; plus last-minute shopping</li>
+            <li><strong>~17:30</strong> — <strong>Azabudai Hills</strong>: Tokyo's brand-new landmark development; free view of <strong>Tokyo Tower from the 60th floor</strong> of Hills House — pair with a walk through <strong>Shiba Park</strong> and <strong>Kokyo Gaien</strong> (Imperial Palace outer gardens)</li>
+          </ul>
+          <div class="day-note">✈️ <strong>4 people depart today</strong> — flight times TBC. The remaining 2 stay one more night and depart April 27.</div>
+        </div>
+      </div>
+
+      <div class="day-card transit">
+        <div class="day-left">
+          <div class="day-date-num">27</div>
+          <div class="day-date-month">APR</div>
+          <div class="day-weekday">Sun</div>
+          <span class="day-badge badge-transit">Departure</span>
+        </div>
+        <div class="day-right">
+          <div class="day-title">Last Morning — 2 People Fly Home</div>
+          <ul class="day-activities">
+            <li><strong>~04:30</strong> — Leave hotel; Narita Express from Ikebukuro area (first trains run ~05:00–05:30)</li>
+            <li><strong>~06:15</strong> — Arrive Narita Airport; allow 2 hrs for check-in, security, and a final Japanese airport breakfast</li>
+            <li><strong>08:15</strong> — <strong>Flight home</strong> 🛫</li>
+          </ul>
+          <div class="day-note">⚠️ <strong>Critical</strong>: With an 08:15 flight you need to be at Narita by 06:00–06:15. Check Narita Express first train times — consider a taxi if trains run too late. Some groups take a hotel near Narita on the final night to avoid stress.</div>
+          <div class="day-transit-info">
+            <div class="transit-item"><span class="transit-label">Leave Hotel</span><span class="transit-value">~04:30</span></div>
+            <div class="transit-item"><span class="transit-label">At Airport</span><span class="transit-value">~06:15</span></div>
+            <div class="transit-item"><span class="transit-label">Flight</span><span class="transit-value">08:15 ✈</span></div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- LOGISTICS -->
+  <div class="logistics">
+    <div class="logistics-card">
+      <h3>Transport Essentials</h3>
+      <ul>
+        <li><strong>IC Card</strong> (Suica/Pasmo): buy at Haneda on arrival; tap-in everywhere for local trains, buses, even convenience stores</li>
+        <li><strong>Narita ↔ Tokyo</strong>: take the <strong>Keisei Skyliner</strong> (¥2,570) — faster and cheaper than N'EX; runs to Ueno then easy onward to Asakusa/Ikebukuro</li>
+        <li><strong>Kansai Airport → Kyoto</strong>: <strong>Haruka Express</strong> (~¥3,490); book point-to-point tickets at the airport</li>
+        <li><strong>Kyoto → Osaka</strong>: take the <strong>Hankyu Line</strong> from Kyoto-Kawaramachi (¥410) — no booking needed, very frequent</li>
+        <li><strong>Osaka → Kansai Airport</strong>: <strong>Nankai Line</strong> from Namba (~¥920, ~40 min) — simple and cheap</li>
+        <li><strong>Osaka ↔ Hiroshima Shinkansen</strong>: buy individual tickets (¥10,520 each way); book in advance for 6 seats together</li>
+      </ul>
+    </div>
+    <div class="logistics-card">
+      <h3>Book in Advance</h3>
+      <ul>
+        <li><strong>Shinkansen seats</strong> Osaka↔Hiroshima — book early for 6 together</li>
+        <li><strong>Universal Studios Japan</strong> tickets + Express Pass</li>
+        <li><strong>teamLab</strong> timed entry tickets</li>
+        <li><strong>DisneySea</strong> (if chosen) — can sell out months ahead</li>
+        <li><strong>Todai-ji Temple</strong> entry (popular spring dates)</li>
+        <li>Popular restaurants: ramen, omakase sushi, teppanyaki for groups</li>
+        <li>Hotels that accept <strong>late check-in</strong> for April 22 Ikebukuro arrival (or book a Narita-area hotel for that night)</li>
+      </ul>
+    </div>
+    <div class="logistics-card">
+      <h3>Money & Practical Tips</h3>
+      <ul>
+        <li>Japan is still largely <strong>cash-based</strong> — carry yen; 7-Eleven ATMs accept foreign cards</li>
+        <li>Get a <strong>pocket WiFi or eSIM</strong> for all 6 people; essential for navigation</li>
+        <li>Restaurant reservations: use <strong>Tableall</strong> or <strong>Pocket Concierge</strong> apps for high-end spots</li>
+        <li>Google Maps or <strong>HyperDia</strong> app for train navigation</li>
+        <li>Convenience stores (konbini) are genuinely amazing — breakfast, lunch, snacks sorted</li>
+        <li>Bring an <strong>adapter</strong> (Japan uses Type A / 100V plugs)</li>
+      </ul>
+    </div>
+    <div class="logistics-card">
+      <h3>Group of 6 — Special Notes</h3>
+      <ul>
+        <li>Reserve <strong>group seating</strong> on all long-distance trains — Shinkansen has 3+3 layout, fits groups well</li>
+        <li>Many taxis fit 4; for 6 people, use <strong>two taxis</strong> or <strong>Go app</strong> (Japanese Uber equivalent)</li>
+        <li>Some restaurants have <strong>min. group size limits</strong> — book ahead to confirm</li>
+        <li><strong>Luggage forwarding</strong> (takuhaibin): send bags between hotels for ~¥2,000–3,000/bag — takes 1 day; saves dragging luggage on transit days (Apr 17 Kyoto→Osaka especially). Ask at your hotel the evening before</li>
+        <li><strong>Suica in Apple Wallet</strong>: load directly in the app — no physical card needed; works on trains, buses, and even in convenience stores</li>
+        <li><strong>Shibuya Sky</strong>: book the premium option with 2 drinks; time your slot to catch sunset (~18:30 in April) for the most spectacular views</li>
+        <li>April is <strong>Golden Week</strong> end — April 29+ gets very busy. You depart April 26/27, so mostly fine, but expect bigger crowds from April 25</li>
+        <li><strong>April = late cherry blossoms</strong>. Ueno, Maruyama Park (Kyoto), and Osaka Castle Park may still have blossoms early in the trip!</li>
+      </ul>
+    </div>
+  </div>
+
+</div>
+
+<div class="footer">
+  <span>Japan Spring 2026</span> &nbsp;·&nbsp; 6 Persons &nbsp;·&nbsp; 12 Apr — 27 Apr &nbsp;·&nbsp; Tokyo · Kyoto · Osaka · Nara · Hiroshima
+</div>
+
+<button class="pdf-btn" onclick="window.print()">Save as PDF</button>
+
+</body>
+</html>
