@@ -309,17 +309,50 @@
   .day-activities li {
     font-size: 15px;
     color: #3a3530;
-    padding-left: 22px;
+    padding-left: 26px;
     position: relative;
+    transition: opacity 0.2s;
   }
 
-  .day-activities li::before {
-    content: '—';
-    color: var(--gold);
-    font-size: 12px;
+  .day-activities li.checked {
+    opacity: 0.6;
+  }
+
+  .day-activities li .cb {
     position: absolute;
     left: 0;
-    top: 2px;
+    top: 3px;
+    width: 15px;
+    height: 15px;
+    border: 1.5px solid var(--gold);
+    border-radius: 2px;
+    cursor: pointer;
+    background: transparent;
+    transition: background 0.15s, border-color 0.15s;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .day-activities li .cb::after {
+    content: '';
+    display: none;
+    width: 4px;
+    height: 8px;
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+    margin-top: -1px;
+  }
+
+  .day-activities li.checked .cb {
+    background: var(--gold);
+    border-color: var(--gold);
+  }
+
+  .day-activities li.checked .cb::after {
+    display: block;
   }
 
   .day-activities li strong {
@@ -839,9 +872,10 @@
             <li><strong>12:30</strong> — Lunch in Hiroshima; try Hiroshima-style <strong>okonomiyaki</strong> and <strong>oysters</strong> (Hiroshima is Japan's oyster capital)</li>
             <li><strong>14:00</strong> — Head to <a href="https://www.google.com/maps/search/?api=1&query=Miyajima+Island+Hiroshima" target="_blank"><strong>Miyajima Island</strong></a> (Itsukushima): allow 30–40 min to reach the ferry terminal from the city centre, plus ~10 min ferry ride. Realistic arrival on the island ~14:45–15:00</li>
             <li>Explore the <a href="https://www.google.com/maps/search/?api=1&query=Itsukushima+Shrine+Torii+Gate+Miyajima" target="_blank"><strong>floating torii gate</strong></a> of Itsukushima Shrine; roam with free deer; enjoy the island at a relaxed pace</li>
+            <li><strong>Optional</strong>: <a href="https://www.google.com/maps/search/?api=1&query=Mt+Misen+Miyajima" target="_blank"><strong>Mt. Misen</strong></a> via ropeway + short hike to the summit (535m) — panoramic views over the Seto Inland Sea; allow ~2 hrs round trip with ropeway, longer if hiking both ways. Only feasible if you arrive on the island by 14:30 and skip some shrine time</li>
             <li><strong>18:00</strong> — Ferry back; <strong>Shinkansen back to Osaka</strong>, arrive ~20:00–20:30</li>
           </ul>
-          <div class="day-note">⚠️ This is a full, emotionally significant day. The Peace Museum is essential but heavy — take breaks. Note: Mt. Misen hike (2–3 hrs with ropeway) is only realistic if you skip something else or start earlier. The shrine area and torii gate alone are well worth the trip. Book Shinkansen in advance for 6 people.</div>
+          <div class="day-note">⚠️ This is a full, emotionally significant day. The Peace Museum is essential but heavy — take breaks. The Mt. Misen ropeway + summit adds ~2 hrs — decide on the island based on energy and time. The shrine area and torii gate alone are well worth the trip without it. Book Shinkansen in advance for 6 people.</div>
           <div class="day-transit-info">
             <div class="transit-item"><span class="transit-label">Shinkansen</span><span class="transit-value">~1 hr 20 min</span></div>
             <div class="transit-item"><span class="transit-label">Book ahead</span><span class="transit-value">¥10,520 each way</span></div>
@@ -850,20 +884,24 @@
         </div>
       </div>
 
-      <div class="day-card">
+      <div class="day-card special">
         <div class="day-left">
           <div class="day-date-num">20</div>
           <div class="day-date-month">APR</div>
           <div class="day-weekday">Mon</div>
+          <span class="day-badge" style="background:var(--gold);color:white;">Birthday</span>
         </div>
         <div class="day-right">
-          <div class="day-title">Universal Studios Japan</div>
+          <div class="day-title">🎂 Birthday — TBD</div>
+          <p style="font-size: 14px; color: var(--grey); font-style: italic; margin-bottom: 10px;">Full day free — it's a birthday! Plan something special. Ideas being considered:</p>
           <ul class="day-activities">
-            <li><strong>08:30</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Universal+Studios+Japan+Osaka" target="_blank"><strong>Universal Studios Japan (USJ)</strong></a>: The Wizarding World of Harry Potter, Super Nintendo World, and Hollywood area; book tickets and Express Passes well in advance</li>
-            <li>Excellent choice for a group of 6 — very fun regardless of age</li>
-            <li><strong>19:30</strong> — Back to Dotonbori or Namba for dinner; great street food crawl</li>
+            <li><strong>Samurai experience</strong> — sword-cutting lessons, armour try-on, or a full immersive samurai workshop (several options in Osaka)</li>
+            <li><strong>Cooking class</strong> — hands-on Japanese cooking (ramen, sushi, or Osaka street food) followed by eating your creations</li>
+            <li><strong>Spa & onsen day</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Spa+World+Osaka" target="_blank"><strong>Spa World</strong></a> or <a href="https://www.google.com/maps/search/?api=1&query=Solaniwa+Onsen+Osaka" target="_blank"><strong>Solaniwa Onsen</strong></a> for a relaxing birthday treat</li>
+            <li><strong>Kobe day trip</strong> — Kobe beef lunch, sake breweries in Nada, harbourside walk</li>
+            <li><strong>teamLab Botanical Garden</strong> — immersive night art installation at Nagai Park</li>
           </ul>
-          <div class="day-note">💡 Alternatively, if USJ isn't the group's style, spend the day exploring Namba / Amerika-mura (American Village) shopping, or take a half-day trip to Kobe for Kobe beef lunch.</div>
+          <div class="day-note">🎂 Decision pending — lock in a plan closer to the date once the group decides what feels right for the birthday person!</div>
         </div>
       </div>
 
@@ -877,8 +915,12 @@
           <div class="day-title">Osaka Flex Day — Food, Shopping & Night Life</div>
           <ul class="day-activities">
             <li><strong>10:00</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Shinsaibashi+Amerikamura+Osaka" target="_blank"><strong>Shinsaibashi & Amerikamura</strong></a> shopping; great for streetwear, vintage, and souvenirs</li>
-            <li><strong>13:30</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Osaka+Aquarium+Kaiyukan" target="_blank"><strong>Osaka Aquarium Kaiyukan</strong></a> (one of the world's best; features a whale shark) — great for families or easy afternoon</li>
-            <li><strong>19:00</strong> — Farewell Kansai dinner: splurge on a proper <strong>kaiseki</strong> or teppanyaki restaurant; celebrate the Kansai leg of the trip</li>
+            <li><strong>11:30</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Hozenji+Yokocho+Osaka" target="_blank"><strong>Hozenji Yokocho</strong></a>: tiny atmospheric alley tucked behind Dotonbori with a moss-covered Buddha statue — toss water on the statue for good luck, then grab lunch at one of the traditional restaurants lining the lane</li>
+            <li><strong>12:30</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Namba+Yasaka+Shrine+Osaka" target="_blank"><strong>Namba Yasaka Shrine</strong></a>: the giant lion-head stage — one of Osaka's most photogenic spots; 10 min walk from Namba, quick stop</li>
+            <li><strong>13:30</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Osaka+Aquarium+Kaiyukan" target="_blank"><strong>Osaka Aquarium Kaiyukan</strong></a> (one of the world's best; features a whale shark) — allow 2–2.5 hrs for the full walk-through</li>
+            <li><strong>16:00</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Tempozan+Ferris+Wheel+Osaka" target="_blank"><strong>Tempozan Giant Ferris Wheel</strong></a>: right next to Kaiyukan — panoramic views across the bay and city; transparent gondola option for the brave</li>
+            <li><strong>17:00</strong> — Head back to Namba; rest up at the hotel before dinner</li>
+            <li><strong>19:00</strong> — Dinner in Namba / Dotonbori — casual night out; try anything you haven't yet from the Osaka street food scene</li>
           </ul>
         </div>
       </div>
@@ -891,17 +933,24 @@
           <span class="day-badge badge-transit">Transit</span>
         </div>
         <div class="day-right">
-          <div class="day-title">Osaka → Kansai Airport → Narita → Ikebukuro</div>
+          <div class="day-title">Last Day in Osaka → Kansai Airport → Narita → Ikebukuro</div>
           <ul class="day-activities">
-            <li><strong>Until 16:00</strong> — Morning shopping or relax; check out of hotel by midday</li>
-            <li><strong>17:00</strong> — Head to Kansai Airport (Nankai Line, ~40 min from Namba)</li>
+            <li><strong>10:00</strong> — Check out of hotel; store luggage in <strong>coin lockers at Namba Station</strong> (large lockers ¥700–1,000/bag) so you're free to roam</li>
+            <li><strong>10:30</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Namba+Parks+Osaka" target="_blank"><strong>Namba Parks</strong></a>: striking canyon-shaped mall with a rooftop garden — good for a morning coffee and last-minute shopping</li>
+            <li><strong>12:00</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Shinsekai+Osaka" target="_blank"><strong>Shinsekai</strong></a> revisit or <a href="https://www.google.com/maps/search/?api=1&query=Den+Den+Town+Osaka" target="_blank"><strong>Den Den Town</strong></a> (Osaka's Akihabara — electronics, anime, retro games); lunch here — last chance for kushikatsu or takoyaki</li>
+            <li><strong>14:00</strong> — <a href="https://www.google.com/maps/search/?api=1&query=Tsutenkaku+Tower+Osaka" target="_blank"><strong>Tsutenkaku Tower</strong></a> observation deck — quick 30 min visit for city views from Shinsekai's iconic landmark</li>
+            <li><strong>15:00</strong> — Head back to Namba; collect luggage from coin lockers</li>
+            <li><strong>16:00</strong> — 🥂 <strong>Farewell Kansai dinner</strong> — splurge on a proper <strong>kaiseki</strong> or <strong>teppanyaki</strong> restaurant; celebrate the Kansai leg of the trip. Early dinner so you can eat properly before the flight</li>
+            <li><strong>17:30</strong> — <strong>Nankai Line</strong> from Namba to Kansai Airport (~40 min, ¥920)</li>
             <li><strong>21:00</strong> — Flight <strong>Kansai → Narita</strong> (~1.5 hrs)</li>
-            <li><strong>~00:00</strong> — Transfer from Narita to Ikebukuro</li>
+            <li><strong>~23:00</strong> — Land Narita; baggage claim ~23:15</li>
+            <li><strong>~00:00</strong> — <strong>Taxi or Limousine Bus</strong> to Ikebukuro (~1.5–2 hrs)</li>
           </ul>
-          <div class="day-note">⚠️ <strong>Late arrival warning</strong>: You land Narita at 22:25. After baggage claim you're looking at ~23:00–23:15. The last Keisei Skyliner departs ~21:30 and Access Express trains end around 23:00 — you will very likely miss the last trains to central Tokyo. Options: (1) <strong>Limousine Bus</strong> — runs slightly later, check schedules; (2) <strong>Taxi</strong> — expect ¥20,000+; (3) <strong>Narita-area hotel</strong> — sleep near the airport and take a morning train to Ikebukuro, stress-free. Option 3 is strongly recommended for a group of 6 after a long travel day. Whichever you choose, confirm late check-in at your Ikebukuro hotel.</div>
+          <div class="day-note">💡 <strong>Late arrival plan</strong>: Last trains from Narita will be gone by the time you clear baggage. Take a <strong>taxi</strong> (2 taxis for 6 people, ~¥20,000–25,000 each) or a <strong>late-night Limousine Bus</strong> if one runs to Ikebukuro — check the <a href="https://www.limousinebus.co.jp/en/" target="_blank">Airport Limousine schedule</a> closer to the date. Confirm <strong>late check-in</strong> with your Ikebukuro hotel. Pre-book taxis via the <strong>Go app</strong> or arrange through the airport taxi stand.</div>
           <div class="day-transit-info">
             <div class="transit-item"><span class="transit-label">Flight</span><span class="transit-value">Kansai 21:00</span></div>
             <div class="transit-item"><span class="transit-label">Arrive</span><span class="transit-value">Narita 22:25</span></div>
+            <div class="transit-item"><span class="transit-label">To Ikebukuro</span><span class="transit-value">Taxi/bus ~1.5–2 hrs</span></div>
           </div>
         </div>
       </div>
@@ -1057,7 +1106,7 @@
       <h3>Book in Advance</h3>
       <ul>
         <li><strong>Shinkansen seats</strong> Osaka↔Hiroshima — book early for 6 together</li>
-        <li><strong>Universal Studios Japan</strong> tickets + Express Pass</li>
+        <li><strong>Apr 20 Birthday activity</strong> — book once decided</li>
         <li><strong>teamLab</strong> timed entry tickets</li>
         <li><strong>DisneySea</strong> (if chosen) — can sell out months ahead</li>
         <li><a href="https://www.google.com/maps/search/?api=1&query=Todaiji+Temple+Nara" target="_blank"><strong>Todai-ji Temple</strong></a> entry (popular spring dates)</li>
@@ -1084,7 +1133,7 @@
         <li>Some restaurants have <strong>min. group size limits</strong> — book ahead to confirm</li>
         <li><strong>Luggage forwarding</strong> (takuhaibin): send bags between hotels for ~¥2,000–3,000/bag — takes 1 day; saves dragging luggage on transit days (Apr 17 Kyoto→Osaka especially). Ask at your hotel the evening before</li>
         <li><strong>Suica in Apple Wallet</strong>: load directly in the app — no physical card needed; works on trains, buses, and even in convenience stores</li>
-        <li><a href="https://www.google.com/maps/search/?api=1&query=Shibuya+Sky+Tokyo" target="_blank"><strong>Shibuya Sky</strong></a>: book the premium option with 2 drinks; time your slot to catch sunset (~18:30 in April) for the most spectacular views</li>
+        <li><a href="https://www.google.com/maps/search/?api=1&query=Shibuya+Sky+Tokyo" target="_blank"><strong>Shibuya Sky</strong></a>: book the premium option with 2 drinks; time your slot to catch sunset (~18:15–18:20 in mid-April Tokyo) for the most spectacular views</li>
         <li>April is <strong>Golden Week</strong> end — April 29+ gets very busy. You depart April 26/27, so mostly fine, but expect bigger crowds from April 25</li>
         <li><strong>April = late cherry blossoms</strong>. Ueno, Maruyama Park (Kyoto), and Osaka Castle Park may still have blossoms early in the trip!</li>
       </ul>
@@ -1103,6 +1152,24 @@
     stop.addEventListener('click', function() {
       var el = document.getElementById(this.dataset.target);
       if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+  });
+
+  // Checkboxes
+  var saved = JSON.parse(localStorage.getItem('japan2026-checks') || '{}');
+  document.querySelectorAll('.day-activities li').forEach(function(li, i) {
+    var cb = document.createElement('span');
+    cb.className = 'cb';
+    li.prepend(cb);
+    if (saved[i]) li.classList.add('checked');
+    cb.addEventListener('click', function(e) {
+      e.stopPropagation();
+      li.classList.toggle('checked');
+      var all = {};
+      document.querySelectorAll('.day-activities li').forEach(function(el, j) {
+        if (el.classList.contains('checked')) all[j] = true;
+      });
+      localStorage.setItem('japan2026-checks', JSON.stringify(all));
     });
   });
 </script>
