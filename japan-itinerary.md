@@ -15,16 +15,16 @@
 
 ## Phase 01 — Asakusa & Tokyo
 
-東京 · 浅草 · 11 April — 14 April · 3 nights
+東京 · 浅草 · 11 April — 14 April · 3 nights · [**Airbnb**](https://www.airbnb.co.uk/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMXJHM3EBQ)
 
 ### Apr 11 (Sat) — Early Arrivals — 4 People Land in Tokyo `ARRIVAL ×4`
 
 - [ ] **08:55** — 2 people land at [**Narita Airport**](https://www.google.com/maps/search/?api=1&query=Narita+International+Airport); clear customs & immigration (allow 1–1.5 hrs). Take the **Keisei Skyliner** to Ueno then onward to Asakusa (~90 min total)
 - [ ] **14:20** — 2 people land at [**Haneda Airport**](https://www.google.com/maps/search/?api=1&query=Haneda+Airport+Tokyo); clear customs, then **Keikyu Line** direct to Asakusa (~1 hr)
-- [ ] Transfer to Asakusa hotel; check in and drop luggage
+- [ ] Transfer to [**Asakusa Airbnb**](https://www.airbnb.co.uk/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMXJHM3EBQ); check in and drop luggage
 - [ ] Free afternoon & evening to explore at leisure — jet lag recovery day
 
-> 💡 Buy a **Suica / Pasmo IC card** at the airport on arrival — you'll use it everywhere. The Narita pair will arrive at the hotel first (~11:30); the Haneda pair around ~16:00.
+> 💡 Buy a **Suica / Pasmo IC card** at the airport on arrival — you'll use it everywhere. The Narita pair will arrive at the **Airbnb** first (~11:30); the Haneda pair around ~16:00.
 
 | Flight         | Airport | Transfer              |
 | -------------- | ------- | --------------------- |
@@ -35,8 +35,8 @@
 
 - [ ] **10:50** — Land at Haneda Airport; clear customs & immigration (allow 1–1.5 hrs)
 - [ ] Take the **Tokyo Monorail or Keikyu Line** to central Tokyo (~30 min)
-- [ ] Check in to your Asakusa hotel / drop luggage
-- [ ] **~14:00** — Stroll [**Kappabashi Street**](https://www.google.com/maps/search/?api=1&query=Kappabashi+Street+Tokyo): Tokyo's kitchen supply district right near your hotel — fascinating Japanese knives, cookware, and plastic food displays
+- [ ] Check in to your [**Asakusa Airbnb**](https://www.airbnb.co.uk/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMXJHM3EBQ) / drop luggage
+- [ ] **~14:00** — Stroll [**Kappabashi Street**](https://www.google.com/maps/search/?api=1&query=Kappabashi+Street+Tokyo): Tokyo's kitchen supply district right near your **Airbnb** — fascinating Japanese knives, cookware, and plastic food displays
 - [ ] **15:30** — **Ginza Line to Omotesando** (~30 min, direct, no transfers): visit the [**Apple Store Omotesando**](https://www.google.com/maps/search/?api=1&query=Apple+Store+Omotesando+Tokyo) flagship — Japan's most beautiful Apple Store with a stunning wooden façade
 - [ ] **17:00** — Ginza Line back to Asakusa; evening stroll along [**Sumida River**](https://www.google.com/maps/search/?api=1&query=Sumida+River+Asakusa+Tokyo) with golden hour view of Tokyo Skytree
 - [ ] Casual dinner in Asakusa — try **tempura** or **monjayaki** in the local alleys; easy first night
@@ -67,10 +67,10 @@ The highlight of day two: a rare chance to watch a **free outdoor ceremonial sum
 
 ### Apr 14 (Tue) — Narita → Kansai → Kyoto `TRANSIT`
 
-- [ ] **09:00** — Check out of Asakusa hotel; head to [**Narita Airport**](https://www.google.com/maps/search/?api=1&query=Narita+International+Airport) via Keisei Skyliner (~90 min). Relaxed morning — grab breakfast at a konbini or café before departure
+- [ ] **09:00** — Check out of [**Asakusa Airbnb**](https://www.airbnb.co.uk/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMXJHM3EBQ); head to [**Narita Airport**](https://www.google.com/maps/search/?api=1&query=Narita+International+Airport) via Keisei Skyliner (~90 min). Relaxed morning — grab breakfast at a konbini or café before departure
 - [ ] **12:00** — Flight **Narita → Kansai Osaka** (~1.5 hrs)
 - [ ] **~15:15** — Transfer from Kansai Airport to **Kyoto** (~75 min via Haruka Express)
-- [ ] Check in to Kyoto hotel; freshen up
+- [ ] Check in to [**Kyoto Airbnb**](https://www.airbnb.co.uk/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HM28C25FP2); freshen up
 - [ ] **19:00** — Explore [**Gion district**](https://www.google.com/maps/search/?api=1&query=Gion+District+Kyoto): lantern-lit streets, tea houses, chance of spotting a geiko or maiko
 
 > ⚠️ Depart Asakusa by **09:00 at latest** to reach Narita comfortably. Take the **Keisei Skyliner** — book reserved seats for 6 in advance.
@@ -83,7 +83,7 @@ The highlight of day two: a rare chance to watch a **free outdoor ceremonial sum
 
 ## Phase 02 — Kyoto & Nara
 
-京都 · 14 April — 17 April · 3 nights
+京都 · 14 April — 17 April · 3 nights · [**Airbnb**](https://www.airbnb.co.uk/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HM28C25FP2)
 
 ### Apr 15 (Wed) — Fushimi Inari, Nishiki Market & Arashiyama
 
@@ -119,10 +119,10 @@ The highlight of day two: a rare chance to watch a **free outdoor ceremonial sum
 - [ ] **09:30** — [**Nijo Castle**](https://www.google.com/maps/search/?api=1&query=Nijo+Castle+Kyoto): shogun's Kyoto residence; famous "nightingale floors" that squeak when walked on
 - [ ] **11:00–15:00** — TBD — extra time in Kyoto; options: [**Philosopher's Path**](https://www.google.com/maps/search/?api=1&query=Philosophers+Path+Kyoto) cherry blossom walk, [**Pontocho Alley**](https://www.google.com/maps/search/?api=1&query=Pontocho+Alley+Kyoto) lunch by the river, [**Monkey Park**](https://www.google.com/maps/search/?api=1&query=Iwatayama+Monkey+Park+Arashiyama+Kyoto) if missed on Apr 15, or revisit a favourite spot
 - [ ] **15:00** — Take the **Hankyu Line** to Osaka (~45 min, very affordable)
-- [ ] Check in to Osaka hotel in [**Namba / Shinsaibashi**](https://www.google.com/maps/search/?api=1&query=Namba+Shinsaibashi+Osaka) area
+- [ ] Check in to [**Osaka Airbnb**](https://www.airbnb.co.uk/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMCCECAJP5) in [**Namba / Shinsaibashi**](https://www.google.com/maps/search/?api=1&query=Namba+Shinsaibashi+Osaka) area
 - [ ] **19:00** — [**Dotonbori**](https://www.google.com/maps/search/?api=1&query=Dotonbori+Osaka): Osaka's electric food & entertainment canal; try **takoyaki** (octopus balls), **okonomiyaki**, and **kushikatsu**
 
-> 💡 **Luggage tip**: Use **takuhaibin** (luggage forwarding) — send your bags from your Kyoto hotel to your Osaka hotel the evening before for ~¥2,000/bag. Ask the hotel front desk on Apr 16. This way you sightsee all morning unburdened and just take the train to Osaka with a day bag.
+> 💡 **Luggage tip**: Use **takuhaibin** (luggage forwarding) — send your bags from your **Kyoto Airbnb** to your **Osaka Airbnb** the evening before for ~¥2,000/bag. Ask the host on Apr 16. This way you sightsee all morning unburdened and just take the train to Osaka with a day bag.
 
 | Kyoto → Osaka       | Cost          |
 | ------------------- | ------------- |
@@ -132,7 +132,7 @@ The highlight of day two: a rare chance to watch a **free outdoor ceremonial sum
 
 ## Phase 03 — Osaka & Hiroshima
 
-大阪 · 17 April — 22 April · 5 nights
+大阪 · 17 April — 22 April · 5 nights · [**Airbnb**](https://www.airbnb.co.uk/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMCCECAJP5)
 
 ### Apr 18 (Sat) — Osaka Castle & Shinsekai
 
@@ -176,12 +176,12 @@ Full day free — it's a birthday! Plan something special. Ideas being considere
 - [ ] **12:30** — [**Namba Yasaka Shrine**](https://www.google.com/maps/search/?api=1&query=Namba+Yasaka+Shrine+Osaka): the giant lion-head stage — one of Osaka's most photogenic spots; 10 min walk from Namba, quick stop
 - [ ] **13:30** — [**Osaka Aquarium Kaiyukan**](https://www.google.com/maps/search/?api=1&query=Osaka+Aquarium+Kaiyukan) (one of the world's best; features a whale shark) — allow 2–2.5 hrs for the full walk-through
 - [ ] **16:00** — [**Tempozan Giant Ferris Wheel**](https://www.google.com/maps/search/?api=1&query=Tempozan+Ferris+Wheel+Osaka): right next to Kaiyukan — panoramic views across the bay and city; transparent gondola option for the brave
-- [ ] **17:00** — Head back to Namba; rest up at the hotel before dinner
+- [ ] **17:00** — Head back to Namba; rest up at the **Airbnb** before dinner
 - [ ] **19:00** — Dinner in Namba / Dotonbori — casual night out; try anything you haven't yet from the Osaka street food scene
 
 ### Apr 22 (Wed) — Last Day in Osaka → Kansai Airport → Narita → Ikebukuro `TRANSIT`
 
-- [ ] **10:00** — Check out of hotel; store luggage in **coin lockers at Namba Station** (large lockers ¥700–1,000/bag) so you're free to roam
+- [ ] **10:00** — Check out of [**Osaka Airbnb**](https://www.airbnb.co.uk/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMCCECAJP5); store luggage in **coin lockers at Namba Station** (large lockers ¥700–1,000/bag) so you're free to roam
 - [ ] **10:30** — [**Namba Parks**](https://www.google.com/maps/search/?api=1&query=Namba+Parks+Osaka): striking canyon-shaped mall with a rooftop garden — good for a morning coffee and last-minute shopping
 - [ ] **12:00** — [**Shinsekai**](https://www.google.com/maps/search/?api=1&query=Shinsekai+Osaka) revisit or [**Den Den Town**](https://www.google.com/maps/search/?api=1&query=Den+Den+Town+Osaka) (Osaka's Akihabara — electronics, anime, retro games); lunch here — last chance for kushikatsu or takoyaki
 - [ ] **14:00** — [**Tsutenkaku Tower**](https://www.google.com/maps/search/?api=1&query=Tsutenkaku+Tower+Osaka) observation deck — quick 30 min visit for city views from Shinsekai's iconic landmark
@@ -190,9 +190,9 @@ Full day free — it's a birthday! Plan something special. Ideas being considere
 - [ ] **17:30** — **Nankai Line** from Namba to Kansai Airport (~40 min, ¥920)
 - [ ] **21:00** — Flight **Kansai → Narita** (~1.5 hrs)
 - [ ] **~23:00** — Land Narita; baggage claim ~23:15
-- [ ] **~00:00** — **Taxi or Limousine Bus** to Ikebukuro (~1.5–2 hrs)
+- [ ] **~00:00** — **Taxi or Limousine Bus** to [**Ikebukuro Airbnb**](https://www.airbnb.co.uk/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMC8K4FM5Y) (~1.5–2 hrs)
 
-> 💡 **Late arrival plan**: Last trains from Narita will be gone by the time you clear baggage. Take a **taxi** (2 taxis for 6 people, ~¥20,000–25,000 each) or a **late-night Limousine Bus** if one runs to Ikebukuro — check the [Airport Limousine schedule](https://www.limousinebus.co.jp/en/) closer to the date. Confirm **late check-in** with your Ikebukuro hotel. Pre-book taxis via the **Go app** or arrange through the airport taxi stand.
+> 💡 **Late arrival plan**: Last trains from Narita will be gone by the time you clear baggage. Take a **taxi** (2 taxis for 6 people, ~¥20,000–25,000 each) or a **late-night Limousine Bus** if one runs to Ikebukuro — check the [Airport Limousine schedule](https://www.limousinebus.co.jp/en/) closer to the date. Confirm **late check-in** with your [**Ikebukuro Airbnb**](https://www.airbnb.co.uk/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMC8K4FM5Y). Pre-book taxis via the **Go app** or arrange through the airport taxi stand.
 
 | Flight       | Arrive       | To Ikebukuro              |
 | ------------ | ------------ | ------------------------- |
@@ -202,7 +202,7 @@ Full day free — it's a birthday! Plan something special. Ideas being considere
 
 ## Phase 04 — Ikebukuro & Tokyo
 
-東京 · 池袋 · 22 April — 27 April · 5 nights
+東京 · 池袋 · 22 April — 27 April · 5 nights · [**Airbnb**](https://www.airbnb.co.uk/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMC8K4FM5Y)
 
 ### Apr 23 (Thu) — Shinjuku, Meiji, Harajuku, teamLab & Shibuya Sky Sunset
 
@@ -253,20 +253,20 @@ Full day free — it's a birthday! Plan something special. Ideas being considere
 - [ ] **Option B** — [**Ikebukuro**](https://www.google.com/maps/search/?api=1&query=Ikebukuro+Tokyo) itself: [Sunshine City](https://www.google.com/maps/search/?api=1&query=Sunshine+City+Ikebukuro+Tokyo), the giant [Pokémon Center](https://www.google.com/maps/search/?api=1&query=Pokemon+Center+Mega+Tokyo+Ikebukuro), anime flagship stores; plus last-minute shopping
 - [ ] **~17:30** — *(Option B only)* [**Azabudai Hills**](https://www.google.com/maps/search/?api=1&query=Azabudai+Hills+Tokyo): Tokyo's brand-new landmark development; free view of [**Tokyo Tower**](https://www.google.com/maps/search/?api=1&query=Tokyo+Tower) from the 60th floor of Hills House — pair with a walk through [**Shiba Park**](https://www.google.com/maps/search/?api=1&query=Shiba+Park+Tokyo) and [**Kokyo Gaien**](https://www.google.com/maps/search/?api=1&query=Kokyo+Gaien+Imperial+Palace+Gardens+Tokyo) (Imperial Palace outer gardens). DisneySea is a full day — skip this if you choose Option A
 
-| Group   | Flight | Leave Hotel | At Narita |
+| Group   | Flight | Leave **Airbnb** | At Narita |
 | ------- | ------ | ----------- | --------- |
 | 2 pax   | 10:25  | ~06:00      | ~08:00    |
 | 2 pax   | 14:45  | ~10:30      | ~12:30    |
 
 ### Apr 27 (Mon) — Last Morning — 2 People Fly Home `DEPARTURE ×2`
 
-- [ ] **~04:30** — Leave hotel; Narita Express from Ikebukuro area (first trains run ~05:00–05:30)
+- [ ] **~04:30** — Leave **Airbnb**; Narita Express from Ikebukuro area (first trains run ~05:00–05:30)
 - [ ] **~06:15** — Arrive [**Narita Airport**](https://www.google.com/maps/search/?api=1&query=Narita+International+Airport); allow 2 hrs for check-in, security, and a final Japanese airport breakfast
 - [ ] **08:15** — **Flight home** 🛫
 
 > ⚠️ **Critical**: With an 08:15 flight you need to be at Narita by 06:00–06:15. Check Narita Express first train times — consider a taxi if trains run too late. Some groups take a hotel near Narita on the final night to avoid stress.
 
-| Leave Hotel | At Airport | Flight  |
+| Leave **Airbnb** | At Airport | Flight  |
 | ----------- | ---------- | ------- |
 | ~04:30      | ~06:15     | 08:15 ✈ |
 
@@ -298,7 +298,7 @@ Full day free — it's a birthday! Plan something special. Ideas being considere
 - **Farewell Tokyo dinner** (Apr 25) — sushi omakase or wagyu yakiniku for 6
 - **DisneySea** (Apr 26, if chosen) — can sell out months ahead
 - [**Todai-ji Temple**](https://www.google.com/maps/search/?api=1&query=Todaiji+Temple+Nara) entry (popular spring dates)
-- Hotels that accept **late check-in** for April 22 Ikebukuro arrival — confirm when booking
+- [**Ikebukuro Airbnb**](https://www.airbnb.co.uk/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMC8K4FM5Y) **late check-in** for April 22 arrival — confirm with host
 
 ### Money & Practical Tips
 
@@ -314,7 +314,7 @@ Full day free — it's a birthday! Plan something special. Ideas being considere
 - Reserve **group seating** on all long-distance trains — Shinkansen has 3+3 layout, fits groups well
 - Many taxis fit 4; for 6 people, use **two taxis** or **Go app** (Japanese Uber equivalent)
 - Some restaurants have **min. group size limits** — book ahead to confirm
-- **Luggage forwarding** (takuhaibin): send bags between hotels for ~¥2,000–3,000/bag — takes 1 day; saves dragging luggage on transit days (Apr 17 Kyoto→Osaka especially). Ask at your hotel the evening before
+- **Luggage forwarding** (takuhaibin): send bags between **Airbnbs** for ~¥2,000–3,000/bag — takes 1 day; saves dragging luggage on transit days (Apr 17 Kyoto→Osaka especially). Ask your host the evening before
 - [**Shibuya Sky**](https://www.google.com/maps/search/?api=1&query=Shibuya+Sky+Tokyo) (Apr 23): book the ~17:00 premium slot with 2 drinks; sunset is ~18:17 — arrive early to secure a good spot on the open-air rooftop
 - April is **Golden Week** end — April 29+ gets very busy. You depart April 26/27, so mostly fine, but expect bigger crowds from April 25
 - **April = late cherry blossoms**. Ueno, Maruyama Park (Kyoto), and Osaka Castle Park may still have blossoms early in the trip!
