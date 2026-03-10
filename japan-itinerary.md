@@ -7,9 +7,9 @@
 | **Arrival**   | 11 Apr (×4) · 12 Apr (×2) |
 | **Return**    | 26 Apr (×4) · 27 Apr (×2) |
 | **Regions**   | Tokyo · Kyoto · Osaka     |
-| **Day Trips** | Nara · Hiroshima          |
+| **Day Trips** | Nara · Hiroshima · Kawaguchiko |
 
-**Route:** Haneda Arrival → Asakusa / Tokyo → Narita → Kansai → Kyoto + Nara → Osaka + Hiroshima → Kansai → Narita → Ikebukuro / Tokyo
+**Route:** Haneda Arrival → Asakusa / Tokyo → Narita → Kansai → Kyoto + Nara → Osaka + Hiroshima → Kansai → Narita → Ikebukuro / Tokyo + Kawaguchiko
 
 ---
 
@@ -58,7 +58,7 @@ The highlight of day two: a rare chance to watch a **free outdoor ceremonial sum
 - [ ] **14:00** — **Makuuchi (top division) ring-entering ceremony & bouts** — the main event; all the top wrestlers compete
 - [ ] **~15:00** — Event finishes. Walk through the shrine grounds and head out
 - [ ] **15:30** — Metro back to Asakusa (~20 min). Visit [**Senso-ji Temple & Nakamise shopping street**](https://www.google.com/maps/search/?api=1&query=Sensoji+Temple+Tokyo): the iconic thunder gate, incense hall, and the full approach lined with street food and souvenir stalls — less crowded in the late afternoon on a Monday
-- [ ] **17:00** — Wander the **backstreets west of Senso-ji**: small neighbourhood shrines, traditional sweet shops (try ningyo-yaki), and old craft workshops the tourists walk right past
+- [ ] **17:00** — Wander the [**backstreets west of Senso-ji**](https://www.google.com/maps/search/?api=1&query=Asakusa+backstreets+west+Sensoji+Tokyo): small neighbourhood shrines, traditional sweet shops (try ningyo-yaki), and old craft workshops the tourists walk right past
 - [ ] **18:30** — Dinner on [**Hoppy Street**](https://www.google.com/maps/search/?api=1&query=Hoppy+Street+Asakusa+Tokyo): Asakusa's lively izakaya strip with outdoor seating, cheap drinks, and yakitori — perfect for the group's first proper night out together
 
 > 💡 **Sumo tips**: Arrive by 08:00 — the shrine fills up and entry may be restricted once 6,000 people are inside. Bring a small cushion or towel to sit on (ground seating). No flash photography near the ring. The event runs rain or shine (light rain only — cancelled in heavy rain). You can leave and re-enter before 14:40, after which no re-entry is allowed. Use public transport — no parking available. [Full event info (Japanese)](https://www.yasukuni.or.jp/news_detail.html?id=676)
@@ -103,7 +103,7 @@ The highlight of day two: a rare chance to watch a **free outdoor ceremonial sum
 - [ ] **14:00** — [**Kasuga Taisha**](https://www.google.com/maps/search/?api=1&query=Kasuga+Taisha+Nara): atmospheric Shinto shrine with hundreds of stone lanterns in a forest setting
 - [ ] **14:45** — [**Nakatanidou**](https://www.google.com/maps/search/?api=1&query=Nakatanidou+Nara): famous shop where they pound fresh mochi by hand at lightning speed right in front of you — one of Nara's most fun street food moments
 - [ ] **15:15** — [**Naramachi**](https://www.google.com/maps/search/?api=1&query=Naramachi+Nara): historic merchant district; browse craft shops and grab matcha sweets
-- [ ] **16:00** — Train to **Uji** (~45–50 min from Nara via transfer): famous for green tea and the stunning [**Byodo-in Temple**](https://www.google.com/maps/search/?api=1&query=Byodoin+Temple+Uji) (on the ¥10 coin); grab a matcha soft serve on the way
+- [ ] **16:00** — Train to [**Uji**](https://www.google.com/maps/search/?api=1&query=Uji+Kyoto+Japan) (~45–50 min from Nara via transfer): famous for green tea and the stunning [**Byodo-in Temple**](https://www.google.com/maps/search/?api=1&query=Byodoin+Temple+Uji) (on the ¥10 coin); grab a matcha soft serve on the way
 - [ ] **18:00** — Return to Kyoto for dinner (~20 min from Uji)
 
 > 💡 Nara is very walkable — everything is within ~2 km. Great for the whole group. Book Todai-ji tickets online to skip lines. Note: Nara → Uji requires a transfer (no direct train) so allow ~45–50 min, not 30.
@@ -119,7 +119,7 @@ The highlight of day two: a rare chance to watch a **free outdoor ceremonial sum
 - [ ] **09:30** — [**Nijo Castle**](https://www.google.com/maps/search/?api=1&query=Nijo+Castle+Kyoto): shogun's Kyoto residence; famous "nightingale floors" that squeak when walked on
 - [ ] **11:00–15:00** — TBD — extra time in Kyoto; options: [**Philosopher's Path**](https://www.google.com/maps/search/?api=1&query=Philosophers+Path+Kyoto) cherry blossom walk, [**Pontocho Alley**](https://www.google.com/maps/search/?api=1&query=Pontocho+Alley+Kyoto) lunch by the river, [**Monkey Park**](https://www.google.com/maps/search/?api=1&query=Iwatayama+Monkey+Park+Arashiyama+Kyoto) if missed on Apr 15, or revisit a favourite spot
 - [ ] **15:00** — Take the **Hankyu Line** to Osaka (~45 min, very affordable)
-- [ ] Check in to Osaka hotel in **Namba / Shinsaibashi** area
+- [ ] Check in to Osaka hotel in [**Namba / Shinsaibashi**](https://www.google.com/maps/search/?api=1&query=Namba+Shinsaibashi+Osaka) area
 - [ ] **19:00** — [**Dotonbori**](https://www.google.com/maps/search/?api=1&query=Dotonbori+Osaka): Osaka's electric food & entertainment canal; try **takoyaki** (octopus balls), **okonomiyaki**, and **kushikatsu**
 
 > 💡 **Luggage tip**: Use **takuhaibin** (luggage forwarding) — send your bags from your Kyoto hotel to your Osaka hotel the evening before for ~¥2,000/bag. Ask the hotel front desk on Apr 16. This way you sightsee all morning unburdened and just take the train to Osaka with a day bag.
@@ -209,7 +209,7 @@ Full day free — it's a birthday! Plan something special. Ideas being considere
 - [ ] **09:00** — [**Shinjuku Gyoen**](https://www.google.com/maps/search/?api=1&query=Shinjuku+Gyoen+National+Garden): one of Tokyo's most beautiful gardens — late cherry blossoms possible mid-April; peaceful and spacious (opens 9:00)
 - [ ] **10:30** — [**Meiji Jingu Shrine**](https://www.google.com/maps/search/?api=1&query=Meiji+Jingu+Shrine+Tokyo): tranquil forested grounds in the heart of the city
 - [ ] **12:00** — [**Harajuku & Omotesando**](https://www.google.com/maps/search/?api=1&query=Harajuku+Omotesando+Tokyo): [Takeshita Street](https://www.google.com/maps/search/?api=1&query=Takeshita+Street+Harajuku+Tokyo), the most architecturally impressive shopping boulevard in Japan; lunch here
-- [ ] **14:00** — [**teamLab Planets Toyosu**](https://www.google.com/maps/search/?api=1&query=teamLab+Planets+Toyosu+Tokyo): immersive digital art — walk barefoot through water and interactive light installations (~2 hrs; book timed entry in advance)
+- [ ] **14:00** — [**teamLab Planets Toyosu**](https://www.google.com/maps/search/?api=1&query=teamLab+Planets+Toyosu+Tokyo): immersive digital art — walk barefoot through water and interactive light installations (~2 hrs; book timed entry in advance). ⚠️ Aim to leave by **16:00 sharp** — transit to Shibuya takes ~30 min
 - [ ] **16:30** — Head to Shibuya; quick stop at [**Hachiko statue**](https://www.google.com/maps/search/?api=1&query=Hachiko+Statue+Shibuya+Tokyo)
 - [ ] **17:00** — [**Shibuya Sky**](https://www.google.com/maps/search/?api=1&query=Shibuya+Sky+Tokyo) for sunset (~18:17) — book the premium slot with 2-drink option; watch the city transition from golden hour to glittering lights from the open-air rooftop
 - [ ] **19:00** — Down to street level for [**Shibuya Crossing**](https://www.google.com/maps/search/?api=1&query=Shibuya+Crossing+Tokyo) at night — the neon-lit scramble is best after dark
@@ -234,9 +234,10 @@ Full day free — it's a birthday! Plan something special. Ideas being considere
 - [ ] **13:00** — [**Akihabara**](https://www.google.com/maps/search/?api=1&query=Akihabara+Tokyo): multi-floor electronics shops, anime stores, retro game arcades — allow time to browse. Short hop north from Ginza (2 stops on JR)
 - [ ] **14:30** — [**Ueno**](https://www.google.com/maps/search/?api=1&query=Ameyoko+Market+Ueno+Tokyo): Ameyoko market street for souvenirs and street food; lively market atmosphere. One stop north from Akihabara
 - [ ] **15:30** — [**Nezu Shrine**](https://www.google.com/maps/search/?api=1&query=Nezu+Shrine+Tokyo): calm, non-touristy shrine with lovely gardens and a small torii tunnel — a hidden gem between Ueno and Asakusa
-- [ ] **16:30** — Return to **Asakusa** for any shopping missed; [Kaminarimon Gate](https://www.google.com/maps/search/?api=1&query=Kaminarimon+Gate+Asakusa+Tokyo) souvenir photos
+- [ ] **16:30** — Return to [**Asakusa**](https://www.google.com/maps/search/?api=1&query=Asakusa+Tokyo) for any shopping missed; [Kaminarimon Gate](https://www.google.com/maps/search/?api=1&query=Kaminarimon+Gate+Asakusa+Tokyo) souvenir photos
 - [ ] **17:30** — [**Tokyo Skytree**](https://www.google.com/maps/search/?api=1&query=Tokyo+Skytree) for sunset & night views from 450m — right next to Asakusa, walk across the Sumida River (open until 22:00; last entry 21:00)
 - [ ] **19:30** — 🥂 **Farewell dinner for all 6** — splurge on sushi omakase or wagyu yakiniku; last night together as a group
+- [ ] **21:30** — Post-dinner drinks or a last stroll through Asakusa / Akihabara at night — soak up the final evening
 - [ ] **22:30** — 🚗 [**Akihabara UDX car meetup**](https://www.google.com/maps/search/?api=1&query=Akihabara+UDX+Parking+Tokyo) (Fridays & Saturdays): informal gathering of JDM and modified cars in the UDX building parking lot — a unique Tokyo late-night bonus for car lovers
 
 ### Apr 26 (Sun) — Last Full Day — Group Parts Ways `DEPARTURE ×4`
@@ -249,8 +250,8 @@ Full day free — it's a birthday! Plan something special. Ideas being considere
 
 - [ ] **08:00** — [**Tsukiji Outer Market**](https://www.google.com/maps/search/?api=1&query=Tsukiji+Outer+Market+Tokyo): the world-famous seafood market; perfect for a breakfast of fresh sushi, tamagoyaki, and street snacks before the crowds arrive
 - [ ] **Option A** — [**DisneySea Tokyo**](https://www.google.com/maps/search/?api=1&query=Tokyo+DisneySea) (the most beautiful theme park in the world — must book far ahead)
-- [ ] **Option B** — **Ikebukuro** itself: [Sunshine City](https://www.google.com/maps/search/?api=1&query=Sunshine+City+Ikebukuro+Tokyo), the giant [Pokémon Center](https://www.google.com/maps/search/?api=1&query=Pokemon+Center+Mega+Tokyo+Ikebukuro), anime flagship stores; plus last-minute shopping
-- [ ] **~17:30** — [**Azabudai Hills**](https://www.google.com/maps/search/?api=1&query=Azabudai+Hills+Tokyo): Tokyo's brand-new landmark development; free view of **Tokyo Tower from the 60th floor** of Hills House — pair with a walk through [**Shiba Park**](https://www.google.com/maps/search/?api=1&query=Shiba+Park+Tokyo) and [**Kokyo Gaien**](https://www.google.com/maps/search/?api=1&query=Kokyo+Gaien+Imperial+Palace+Gardens+Tokyo) (Imperial Palace outer gardens)
+- [ ] **Option B** — [**Ikebukuro**](https://www.google.com/maps/search/?api=1&query=Ikebukuro+Tokyo) itself: [Sunshine City](https://www.google.com/maps/search/?api=1&query=Sunshine+City+Ikebukuro+Tokyo), the giant [Pokémon Center](https://www.google.com/maps/search/?api=1&query=Pokemon+Center+Mega+Tokyo+Ikebukuro), anime flagship stores; plus last-minute shopping
+- [ ] **~17:30** — *(Option B only)* [**Azabudai Hills**](https://www.google.com/maps/search/?api=1&query=Azabudai+Hills+Tokyo): Tokyo's brand-new landmark development; free view of [**Tokyo Tower**](https://www.google.com/maps/search/?api=1&query=Tokyo+Tower) from the 60th floor of Hills House — pair with a walk through [**Shiba Park**](https://www.google.com/maps/search/?api=1&query=Shiba+Park+Tokyo) and [**Kokyo Gaien**](https://www.google.com/maps/search/?api=1&query=Kokyo+Gaien+Imperial+Palace+Gardens+Tokyo) (Imperial Palace outer gardens). DisneySea is a full day — skip this if you choose Option A
 
 | Group   | Flight | Leave Hotel | At Narita |
 | ------- | ------ | ----------- | --------- |
@@ -275,22 +276,29 @@ Full day free — it's a birthday! Plan something special. Ideas being considere
 
 ### Transport Essentials
 
-- **IC Card** (Suica/Pasmo): buy at Haneda on arrival; tap-in everywhere for local trains, buses, even convenience stores
+- **IC Card** (Suica/Pasmo): buy at Haneda/Narita on arrival; tap-in everywhere for local trains, buses, even convenience stores. Load via **Apple Wallet** — no physical card needed
 - **Narita ↔ Tokyo**: take the **Keisei Skyliner** (¥2,570) — faster and cheaper than N'EX; runs to Ueno then easy onward to Asakusa/Ikebukuro
 - **Kansai Airport → Kyoto**: **Haruka Express** (~¥3,490); book point-to-point tickets at the airport
 - **Kyoto → Osaka**: take the **Hankyu Line** from Kyoto-Kawaramachi (¥410) — no booking needed, very frequent
 - **Osaka → Kansai Airport**: **Nankai Line** from Namba (~¥920, ~40 min) — simple and cheap
 - **Osaka ↔ Hiroshima Shinkansen**: buy individual tickets (¥10,520 each way); book in advance for 6 seats together
+- **Shinjuku → Kawaguchiko bus**: ~¥2,200 each way (~1.5–2 hrs); book via **Highway Bus Online** or **Willer Express** — popular route, reserve early for 6
+- **Taxis**: download the **Go app** (Japan's Uber equivalent) — essential for groups of 6 (need 2 taxis). Also useful for the late-night Narita arrival on Apr 22
 
 ### Book in Advance
 
+- **Keisei Skyliner** (Apr 14) — 6 reserved seats Asakusa/Ueno → Narita; book at the station or online
 - **Shinkansen seats** Osaka↔Hiroshima — book early for 6 together
+- **Kawaguchiko bus** (Apr 24) — 6 seats Shinjuku↔Kawaguchiko; popular route, sells out
+- **Shibuya Sky** (Apr 23) — book the ~17:00 premium sunset slot with 2-drink option for 6
+- **teamLab Planets** (Apr 23) — timed entry ~14:00 slot for 6
+- **Kaiyukan Aquarium** (Apr 21) — timed entry tickets; Tuesday is calmer but still book for 6
 - **Apr 20 Birthday activity** — book once decided
-- **teamLab** timed entry tickets
-- **DisneySea** (if chosen) — can sell out months ahead
+- **Farewell Kansai dinner** (Apr 22) — kaiseki or teppanyaki for 6; most good places need weeks' notice
+- **Farewell Tokyo dinner** (Apr 25) — sushi omakase or wagyu yakiniku for 6
+- **DisneySea** (Apr 26, if chosen) — can sell out months ahead
 - [**Todai-ji Temple**](https://www.google.com/maps/search/?api=1&query=Todaiji+Temple+Nara) entry (popular spring dates)
-- Popular restaurants: ramen, omakase sushi, teppanyaki for groups
-- Hotels that accept **late check-in** for April 22 Ikebukuro arrival (or book a Narita-area hotel for that night)
+- Hotels that accept **late check-in** for April 22 Ikebukuro arrival — confirm when booking
 
 ### Money & Practical Tips
 
@@ -307,11 +315,10 @@ Full day free — it's a birthday! Plan something special. Ideas being considere
 - Many taxis fit 4; for 6 people, use **two taxis** or **Go app** (Japanese Uber equivalent)
 - Some restaurants have **min. group size limits** — book ahead to confirm
 - **Luggage forwarding** (takuhaibin): send bags between hotels for ~¥2,000–3,000/bag — takes 1 day; saves dragging luggage on transit days (Apr 17 Kyoto→Osaka especially). Ask at your hotel the evening before
-- **Suica in Apple Wallet**: load directly in the app — no physical card needed; works on trains, buses, and even in convenience stores
-- [**Shibuya Sky**](https://www.google.com/maps/search/?api=1&query=Shibuya+Sky+Tokyo): book the premium option with 2 drinks; time your slot to catch sunset (~18:15–18:20 in mid-April Tokyo) for the most spectacular views
+- [**Shibuya Sky**](https://www.google.com/maps/search/?api=1&query=Shibuya+Sky+Tokyo) (Apr 23): book the ~17:00 premium slot with 2 drinks; sunset is ~18:17 — arrive early to secure a good spot on the open-air rooftop
 - April is **Golden Week** end — April 29+ gets very busy. You depart April 26/27, so mostly fine, but expect bigger crowds from April 25
 - **April = late cherry blossoms**. Ueno, Maruyama Park (Kyoto), and Osaka Castle Park may still have blossoms early in the trip!
 
 ---
 
-_Japan Spring 2026 · 6 Persons · 12 Apr — 27 Apr · Tokyo · Kyoto · Osaka · Nara · Hiroshima_
+_Japan Spring 2026 · 6 Persons · 11 Apr — 27 Apr · Tokyo · Kyoto · Osaka · Nara · Hiroshima · Kawaguchiko_
