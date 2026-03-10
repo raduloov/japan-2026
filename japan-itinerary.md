@@ -204,31 +204,39 @@ Full day free — it's a birthday! Plan something special. Ideas being considere
 
 東京 · 池袋 · 22 April — 27 April · 5 nights
 
-### Apr 23 (Thu) — Shinjuku Gyoen, Meiji Shrine, Harajuku & Shinjuku
+### Apr 23 (Thu) — Shinjuku, Meiji, Harajuku, teamLab & Shibuya Sky Sunset
 
 - [ ] **09:00** — [**Shinjuku Gyoen**](https://www.google.com/maps/search/?api=1&query=Shinjuku+Gyoen+National+Garden): one of Tokyo's most beautiful gardens — late cherry blossoms possible mid-April; peaceful and spacious (opens 9:00)
 - [ ] **10:30** — [**Meiji Jingu Shrine**](https://www.google.com/maps/search/?api=1&query=Meiji+Jingu+Shrine+Tokyo): tranquil forested grounds in the heart of the city
 - [ ] **12:00** — [**Harajuku & Omotesando**](https://www.google.com/maps/search/?api=1&query=Harajuku+Omotesando+Tokyo): [Takeshita Street](https://www.google.com/maps/search/?api=1&query=Takeshita+Street+Harajuku+Tokyo), the most architecturally impressive shopping boulevard in Japan; lunch here
-- [ ] **15:00** — [**Shinjuku**](https://www.google.com/maps/search/?api=1&query=Kabukicho+Shinjuku+Tokyo): Kabukicho entertainment district by day; the [Omoide Yokocho (Memory Lane)](https://www.google.com/maps/search/?api=1&query=Omoide+Yokocho+Shinjuku+Tokyo) tiny yakitori alleys
-- [ ] **20:00** — [**Tokyo Metropolitan Government Building**](https://www.google.com/maps/search/?api=1&query=Tokyo+Metropolitan+Government+Building): free observation deck with night views; then ramen in Shinjuku
+- [ ] **14:00** — [**teamLab Planets Toyosu**](https://www.google.com/maps/search/?api=1&query=teamLab+Planets+Toyosu+Tokyo): immersive digital art — walk barefoot through water and interactive light installations (~2 hrs; book timed entry in advance)
+- [ ] **16:30** — Head to Shibuya; quick stop at [**Hachiko statue**](https://www.google.com/maps/search/?api=1&query=Hachiko+Statue+Shibuya+Tokyo)
+- [ ] **17:00** — [**Shibuya Sky**](https://www.google.com/maps/search/?api=1&query=Shibuya+Sky+Tokyo) for sunset (~18:17) — book the premium slot with 2-drink option; watch the city transition from golden hour to glittering lights from the open-air rooftop
+- [ ] **19:00** — Down to street level for [**Shibuya Crossing**](https://www.google.com/maps/search/?api=1&query=Shibuya+Crossing+Tokyo) at night — the neon-lit scramble is best after dark
+- [ ] **19:30** — [**Udagawacho backstreets**](https://www.google.com/maps/search/?api=1&query=Udagawacho+Shibuya+Tokyo) and the enormous [**Don Quijote**](https://www.google.com/maps/search/?api=1&query=Don+Quijote+Shibuya+Tokyo) — the ultimate Japanese discount store for cosmetics, snacks, electronics and souvenirs
+- [ ] **20:30** — Dinner in Shibuya or head to [**Shinjuku**](https://www.google.com/maps/search/?api=1&query=Kabukicho+Shinjuku+Tokyo) for Kabukicho nightlife and the [Omoide Yokocho (Memory Lane)](https://www.google.com/maps/search/?api=1&query=Omoide+Yokocho+Shinjuku+Tokyo) tiny yakitori alleys
 
-### Apr 24 (Fri) — Shibuya & Daikanyama
+### Apr 24 (Fri) — 🗻 Day Trip to Kawaguchiko & Mt. Fuji + Roppongi Night `DAY TRIP`
 
-- [ ] **09:00** — [**Shibuya Sky**](https://www.google.com/maps/search/?api=1&query=Shibuya+Sky+Tokyo) (rooftop observation deck) for clear morning views — book the sunset slot with 2-drink option for best experience; then walk the famous scramble crossing from street level
-- [ ] **10:30** — [**Udagawacho backstreets**](https://www.google.com/maps/search/?api=1&query=Udagawacho+Shibuya+Tokyo): Shibuya's hip side-street neighbourhood; plus the enormous [**Don Quijote**](https://www.google.com/maps/search/?api=1&query=Don+Quijote+Shibuya+Tokyo) — the ultimate Japanese discount store for cosmetics, snacks, electronics and souvenirs
-- [ ] **11:30** — [**Daikanyama & Nakameguro**](https://www.google.com/maps/search/?api=1&query=Daikanyama+Nakameguro+Tokyo): [Tsutaya Books](https://www.google.com/maps/search/?api=1&query=Tsutaya+Books+Daikanyama+Tokyo), chic cafés, the canal walk — Tokyo's most relaxed neighbourhoods; lunch here
-- [ ] **14:30** — [**Ebisu Garden Place & Yebisu Beer Museum**](https://www.google.com/maps/search/?api=1&query=Yebisu+Beer+Museum+Tokyo) (free, fun for the group)
-- [ ] **17:30** — [**Tokyo Skytree**](https://www.google.com/maps/search/?api=1&query=Tokyo+Skytree) for sunset & early night view from 450m — catch the city transition from golden hour to glittering lights (open until 22:00; last entry 21:00)
-- [ ] **19:30** — [**Roppongi**](https://www.google.com/maps/search/?api=1&query=Roppongi+Tokyo): start with dinner at a Roppongi izakaya or restaurant, then ease into the nightlife — [Mori Art Museum](https://www.google.com/maps/search/?api=1&query=Mori+Art+Museum+Roppongi+Tokyo) rooftop bar for cocktails with city views, or explore the bars and clubs along [Roppongi-dori](https://www.google.com/maps/search/?api=1&query=Roppongi+Crossing+Tokyo). Popular spots include V2 Tokyo, 1OAK, and the smaller bars tucked into the side streets. Friday night in Roppongi is prime time
+- [ ] **08:00** — Bus from [**Shinjuku Expressway Bus Terminal (Busta)**](https://www.google.com/maps/search/?api=1&query=Busta+Shinjuku+Tokyo) to Kawaguchiko (~1.5–2 hrs). Book seats in advance for 6
+- [ ] **10:30** — Bus to Fujiyoshida (~30 min)
+- [ ] **11:00** — [**Arakurayama Sengen Park**](https://www.google.com/maps/search/?api=1&query=Arakurayama+Sengen+Park+Fujiyoshida): the iconic five-storey pagoda with Mt. Fuji rising behind it — Japan's most famous photo spot. Climb the 398 steps to the top
+- [ ] **13:00** — [**Mt. Fuji Panoramic Ropeway**](https://www.google.com/maps/search/?api=1&query=Mt+Fuji+Panoramic+Ropeway+Kawaguchiko): cable car up to an observation deck with sweeping Fuji and lake views; grab lunch at the base or at the summit café
+- [ ] **14:30** — [**Oishi Park**](https://www.google.com/maps/search/?api=1&query=Oishi+Park+Kawaguchiko): lakeside walk with Fuji reflected in the water; lavender fields (season permitting)
+- [ ] **17:00** — Bus back to Tokyo from Kawaguchiko (~1.5–2 hrs)
+- [ ] **19:30** — [**Roppongi**](https://www.google.com/maps/search/?api=1&query=Roppongi+Tokyo): dinner at a Roppongi izakaya, then ease into the nightlife — [Mori Art Museum](https://www.google.com/maps/search/?api=1&query=Mori+Art+Museum+Roppongi+Tokyo) rooftop bar for cocktails with city views, or explore the bars and clubs along [Roppongi-dori](https://www.google.com/maps/search/?api=1&query=Roppongi+Crossing+Tokyo). Friday night in Roppongi is prime time
 
-### Apr 25 (Sat) — Akihabara, Ueno & Asakusa Revisit
+> 💡 **Bus booking**: Reserve the Shinjuku–Kawaguchiko bus via **Highway Bus Online** or **Willer Express** — popular route, book early for 6 seats. The bus drops you at Kawaguchiko Station. Weather is key — check the Fuji visibility forecast the night before. If Fuji is hidden in cloud, consider swapping this day with Apr 23.
 
-- [ ] **09:30** — [**Akihabara**](https://www.google.com/maps/search/?api=1&query=Akihabara+Tokyo): multi-floor electronics shops, anime stores, retro game arcades — allow time to browse
-- [ ] **12:30** — [**Ueno**](https://www.google.com/maps/search/?api=1&query=Ameyoko+Market+Ueno+Tokyo): Ameyoko market street for souvenirs and street food; lively market atmosphere; lunch here
-- [ ] **14:00** — [**Nezu Shrine**](https://www.google.com/maps/search/?api=1&query=Nezu+Shrine+Tokyo): calm, non-touristy shrine with lovely gardens and a small torii tunnel — a hidden gem between Ueno and Asakusa
-- [ ] **15:30** — Return to **Asakusa** for any shopping missed; [Kaminarimon Gate](https://www.google.com/maps/search/?api=1&query=Kaminarimon+Gate+Asakusa+Tokyo) souvenir photos
-- [ ] **18:30** — Optional: [**teamLab Planets Toyosu**](https://www.google.com/maps/search/?api=1&query=teamLab+Planets+Toyosu+Tokyo) or [**teamLab Borderless Azabudai**](https://www.google.com/maps/search/?api=1&query=teamLab+Borderless+Azabudai+Hills+Tokyo) — immersive digital art (book tickets in advance)
-- [ ] **20:30** — 🥂 **Farewell dinner for all 6** — splurge on sushi omakase or wagyu yakiniku; last night together as a group
+### Apr 25 (Sat) — Akihabara, Ginza, Ueno & Farewell Night
+
+- [ ] **10:30** — [**Ginza**](https://www.google.com/maps/search/?api=1&query=Ginza+Tokyo): Tokyo's most upscale shopping district — flagship stores, department basements (depachika) with incredible food halls, architectural landmarks; brunch/lunch here. Later start to recover from Roppongi
+- [ ] **13:00** — [**Akihabara**](https://www.google.com/maps/search/?api=1&query=Akihabara+Tokyo): multi-floor electronics shops, anime stores, retro game arcades — allow time to browse. Short hop north from Ginza (2 stops on JR)
+- [ ] **14:30** — [**Ueno**](https://www.google.com/maps/search/?api=1&query=Ameyoko+Market+Ueno+Tokyo): Ameyoko market street for souvenirs and street food; lively market atmosphere. One stop north from Akihabara
+- [ ] **15:30** — [**Nezu Shrine**](https://www.google.com/maps/search/?api=1&query=Nezu+Shrine+Tokyo): calm, non-touristy shrine with lovely gardens and a small torii tunnel — a hidden gem between Ueno and Asakusa
+- [ ] **16:30** — Return to **Asakusa** for any shopping missed; [Kaminarimon Gate](https://www.google.com/maps/search/?api=1&query=Kaminarimon+Gate+Asakusa+Tokyo) souvenir photos
+- [ ] **17:30** — [**Tokyo Skytree**](https://www.google.com/maps/search/?api=1&query=Tokyo+Skytree) for sunset & night views from 450m — right next to Asakusa, walk across the Sumida River (open until 22:00; last entry 21:00)
+- [ ] **19:30** — 🥂 **Farewell dinner for all 6** — splurge on sushi omakase or wagyu yakiniku; last night together as a group
 - [ ] **22:30** — 🚗 [**Akihabara UDX car meetup**](https://www.google.com/maps/search/?api=1&query=Akihabara+UDX+Parking+Tokyo) (Fridays & Saturdays): informal gathering of JDM and modified cars in the UDX building parking lot — a unique Tokyo late-night bonus for car lovers
 
 ### Apr 26 (Sun) — Last Full Day — Group Parts Ways `DEPARTURE ×4`
@@ -241,8 +249,7 @@ Full day free — it's a birthday! Plan something special. Ideas being considere
 
 - [ ] **08:00** — [**Tsukiji Outer Market**](https://www.google.com/maps/search/?api=1&query=Tsukiji+Outer+Market+Tokyo): the world-famous seafood market; perfect for a breakfast of fresh sushi, tamagoyaki, and street snacks before the crowds arrive
 - [ ] **Option A** — [**DisneySea Tokyo**](https://www.google.com/maps/search/?api=1&query=Tokyo+DisneySea) (the most beautiful theme park in the world — must book far ahead)
-- [ ] **Option B — Kawaguchiko & Mt. Fuji**: bus to Kawaguchiko (~1.5 hrs) → [**Arakurayama Sengen Park**](https://www.google.com/maps/search/?api=1&query=Arakurayama+Sengen+Park+Fujiyoshida) (the iconic pagoda-with-Fuji photo) → [**Mt. Fuji Panoramic Ropeway**](https://www.google.com/maps/search/?api=1&query=Mt+Fuji+Panoramic+Ropeway+Kawaguchiko) → [**Oishi Park**](https://www.google.com/maps/search/?api=1&query=Oishi+Park+Kawaguchiko) lakeside walk → bus back to Tokyo by 17:00. Book bus in advance.
-- [ ] **Option C** — **Ikebukuro** itself: [Sunshine City](https://www.google.com/maps/search/?api=1&query=Sunshine+City+Ikebukuro+Tokyo), the giant [Pokémon Center](https://www.google.com/maps/search/?api=1&query=Pokemon+Center+Mega+Tokyo+Ikebukuro), anime flagship stores; plus last-minute shopping
+- [ ] **Option B** — **Ikebukuro** itself: [Sunshine City](https://www.google.com/maps/search/?api=1&query=Sunshine+City+Ikebukuro+Tokyo), the giant [Pokémon Center](https://www.google.com/maps/search/?api=1&query=Pokemon+Center+Mega+Tokyo+Ikebukuro), anime flagship stores; plus last-minute shopping
 - [ ] **~17:30** — [**Azabudai Hills**](https://www.google.com/maps/search/?api=1&query=Azabudai+Hills+Tokyo): Tokyo's brand-new landmark development; free view of **Tokyo Tower from the 60th floor** of Hills House — pair with a walk through [**Shiba Park**](https://www.google.com/maps/search/?api=1&query=Shiba+Park+Tokyo) and [**Kokyo Gaien**](https://www.google.com/maps/search/?api=1&query=Kokyo+Gaien+Imperial+Palace+Gardens+Tokyo) (Imperial Palace outer gardens)
 
 | Group   | Flight | Leave Hotel | At Narita |
