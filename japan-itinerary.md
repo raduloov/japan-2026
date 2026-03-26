@@ -91,7 +91,7 @@ The highlight of day two: a rare chance to watch a **free outdoor ceremonial sum
 - [ ] **11:00** — [**Sanjusangendo**](https://www.google.com/maps/search/?api=1&query=Sanjusangendo+Kyoto): breathtaking hall of 1,001 life-size golden Kannon statues — one of the most visually stunning rooms in all of Japan (30–40 min). Just 10 min from Fushimi Inari by train
 - [ ] **12:00** — [**Nishiki Market**](https://www.google.com/maps/search/?api=1&query=Nishiki+Market+Kyoto): Kyoto's famous covered food market — graze on street snacks, pickles, fresh tofu, and local specialties while walking the narrow lane. Perfect for lunch; stalls are all open midday
 - [ ] **14:00** — [**Kinkaku-ji (Golden Pavilion)**](https://www.google.com/maps/search/?api=1&query=Kinkakuji+Temple+Kyoto): iconic gold-leaf temple reflected in a tranquil pond
-- [ ] **16:00** — [**Arashiyama Bamboo Grove**](https://www.google.com/maps/search/?api=1&query=Arashiyama+Bamboo+Grove+Kyoto): the late afternoon light filtering through the bamboo is beautiful; walk to [**Tenryu-ji garden**](https://www.google.com/maps/search/?api=1&query=Tenryuji+Temple+Kyoto) and the [**Arashiyama Park viewpoint**](https://www.google.com/maps/search/?api=1&query=Arashiyama+Park+Kyoto) along the river
+- [ ] **16:00** — [**Arashiyama Bamboo Grove**](https://www.google.com/maps/search/?api=1&query=Arashiyama+Bamboo+Grove+Kyoto): the late afternoon light filtering through the bamboo is beautiful; walk to [**Tenryu-ji garden**](https://www.google.com/maps/search/?api=1&query=Tenryuji+Temple+Kyoto) and the [**Arashiyama Park viewpoint**](https://www.google.com/maps/search/?api=1&query=Arashiyama+Park+Kyoto) along the river. **Optional**: continue 20 min north to [**Otagi Nenbutsu-ji**](https://www.google.com/maps/search/?api=1&query=Otagi+Nenbutsuji+Temple+Kyoto) — a hidden temple with 1,200+ whimsical stone statues each with unique expressions (closes 17:00, get there by 16:30)
 - [ ] **18:00** — Dinner at a riverside Arashiyama restaurant, or head back to central Kyoto (try kaiseki or yudofu tofu cuisine)
 
 ### Apr 16 (Thu) — 🦌 Day Trip to Nara & Uji `DAY TRIP`
@@ -117,7 +117,8 @@ The highlight of day two: a rare chance to watch a **free outdoor ceremonial sum
 - [ ] **07:00** — [**Kiyomizu-dera Temple**](https://www.google.com/maps/search/?api=1&query=Kiyomizudera+Temple+Kyoto): one of Kyoto's most iconic temples on a wooden hillside platform; magical at dawn before the crowds arrive (opens 06:00)
 - [ ] **08:00** — Walk [**Sannenzaka & Ninenzaka**](https://www.google.com/maps/search/?api=1&query=Sannenzaka+Ninenzaka+Kyoto): beautiful cobblestone streets winding down from the temple; souvenir shops, matcha cafés, traditional townhouses
 - [ ] **09:30** — [**Nijo Castle**](https://www.google.com/maps/search/?api=1&query=Nijo+Castle+Kyoto): shogun's Kyoto residence; famous "nightingale floors" that squeak when walked on
-- [ ] **11:00–15:00** — TBD — extra time in Kyoto; options: [**Philosopher's Path**](https://www.google.com/maps/search/?api=1&query=Philosophers+Path+Kyoto) cherry blossom walk, [**Pontocho Alley**](https://www.google.com/maps/search/?api=1&query=Pontocho+Alley+Kyoto) lunch by the river, [**Monkey Park**](https://www.google.com/maps/search/?api=1&query=Iwatayama+Monkey+Park+Arashiyama+Kyoto) if missed on Apr 15, or revisit a favourite spot
+- [ ] **11:00** — Free time in Kyoto; options: [**Kyoto Tower**](https://www.google.com/maps/search/?api=1&query=Kyoto+Tower) observation deck (right at the station, quick visit), [**Philosopher's Path**](https://www.google.com/maps/search/?api=1&query=Philosophers+Path+Kyoto) cherry blossom walk, [**Pontocho Alley**](https://www.google.com/maps/search/?api=1&query=Pontocho+Alley+Kyoto) lunch by the river, or revisit a favourite spot
+- [ ] **13:00** — 🍵 **Maiko tea ceremony in Gion** — private group experience with a maiko (apprentice geisha): traditional tea service, dance performance, conversation and photos (~1 hr). Book [**Maikoya Kyoto**](https://www.google.com/maps/search/?api=1&query=Maikoya+Kyoto) or [**Gion Hatanaka**](https://www.google.com/maps/search/?api=1&query=Gion+Hatanaka+Kyoto) for 6 in advance
 - [ ] **15:00** — Take the **Hankyu Line** to Osaka (~45 min, very affordable)
 - [ ] Check in to [**Osaka Airbnb**](https://www.airbnb.co.uk/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMCCECAJP5) in [**Namba / Shinsaibashi**](https://www.google.com/maps/search/?api=1&query=Namba+Shinsaibashi+Osaka) area
 - [ ] **19:00** — [**Dotonbori**](https://www.google.com/maps/search/?api=1&query=Dotonbori+Osaka): Osaka's electric food & entertainment canal; try **takoyaki** (octopus balls), **okonomiyaki**, and **kushikatsu**
@@ -251,7 +252,7 @@ Full day free — it's a birthday! Plan something special. Ideas being considere
 - [ ] **08:00** — [**Tsukiji Outer Market**](https://www.google.com/maps/search/?api=1&query=Tsukiji+Outer+Market+Tokyo): the world-famous seafood market; perfect for a breakfast of fresh sushi, tamagoyaki, and street snacks before the crowds arrive
 - [ ] **Option A** — [**DisneySea Tokyo**](https://www.google.com/maps/search/?api=1&query=Tokyo+DisneySea) (the most beautiful theme park in the world — must book far ahead)
 - [ ] **Option B** — [**Ikebukuro**](https://www.google.com/maps/search/?api=1&query=Ikebukuro+Tokyo) itself: [Sunshine City](https://www.google.com/maps/search/?api=1&query=Sunshine+City+Ikebukuro+Tokyo), the giant [Pokémon Center](https://www.google.com/maps/search/?api=1&query=Pokemon+Center+Mega+Tokyo+Ikebukuro), anime flagship stores; plus last-minute shopping
-- [ ] **~17:30** — *(Option B only)* [**Azabudai Hills**](https://www.google.com/maps/search/?api=1&query=Azabudai+Hills+Tokyo): Tokyo's brand-new landmark development; free view of [**Tokyo Tower**](https://www.google.com/maps/search/?api=1&query=Tokyo+Tower) from the 60th floor of Hills House — pair with a walk through [**Shiba Park**](https://www.google.com/maps/search/?api=1&query=Shiba+Park+Tokyo) and [**Kokyo Gaien**](https://www.google.com/maps/search/?api=1&query=Kokyo+Gaien+Imperial+Palace+Gardens+Tokyo) (Imperial Palace outer gardens). DisneySea is a full day — skip this if you choose Option A
+- [ ] **~17:30** — *(Option B only)* [**Zojo-ji Temple**](https://www.google.com/maps/search/?api=1&query=Zojoji+Temple+Tokyo): striking temple at the foot of Tokyo Tower — rows of tiny Jizo statues with red knitted hats; then walk through [**Shiba Park**](https://www.google.com/maps/search/?api=1&query=Shiba+Park+Tokyo) for the classic Tokyo Tower view → [**Azabudai Hills**](https://www.google.com/maps/search/?api=1&query=Azabudai+Hills+Tokyo) for free city views from the 60th floor → [**Kokyo Gaien**](https://www.google.com/maps/search/?api=1&query=Kokyo+Gaien+Imperial+Palace+Gardens+Tokyo) (Imperial Palace outer gardens). DisneySea is a full day — skip this if you choose Option A
 
 | Group   | Flight | Leave **Airbnb** | At Narita |
 | ------- | ------ | ----------- | --------- |
@@ -292,11 +293,16 @@ Full day free — it's a birthday! Plan something special. Ideas being considere
 - **Kawaguchiko bus** (Apr 24) — 6 seats Shinjuku↔Kawaguchiko; popular route, sells out
 - **Shibuya Sky** (Apr 23) — book the ~17:00 premium sunset slot with 2-drink option for 6
 - **teamLab Planets** (Apr 23) — timed entry ~14:00 slot for 6
+- **Haruka Express** (Apr 14) — reserved seats Kansai Airport → Kyoto for 6
+- **Umeda Sky Building** (Apr 18) — online tickets recommended for Saturday sunset; book for 6
+- **Hiroshima Peace Museum** (Apr 19) — timed entry required; sells out on weekends, book for 6
 - **Kaiyukan Aquarium** (Apr 21) — timed entry tickets; Tuesday is calmer but still book for 6
+- **Maiko tea ceremony** (Apr 17, 13:00) — Maikoya or Gion Hatanaka for 6; book weeks ahead
 - **Apr 20 Birthday activity** — book once decided
 - **Farewell Kansai dinner** (Apr 22) — kaiseki or teppanyaki for 6; most good places need weeks' notice
 - **Farewell Tokyo dinner** (Apr 25) — sushi omakase or wagyu yakiniku for 6
 - **DisneySea** (Apr 26, if chosen) — can sell out months ahead
+- **Tokyo Skytree** (Apr 25) — Saturday evening; online booking skips the ticket queue for 6
 - [**Todai-ji Temple**](https://www.google.com/maps/search/?api=1&query=Todaiji+Temple+Nara) entry (popular spring dates)
 - [**Ikebukuro Airbnb**](https://www.airbnb.co.uk/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMC8K4FM5Y) **late check-in** for April 22 arrival — confirm with host
 
