@@ -167,6 +167,7 @@ Full day free — it's a birthday! Plan something special. Ideas being considere
 - [ ] **Spa & onsen day** — [**Spa World**](https://www.google.com/maps/search/?api=1&query=Spa+World+Osaka) or [**Solaniwa Onsen**](https://www.google.com/maps/search/?api=1&query=Solaniwa+Onsen+Osaka) for a relaxing birthday treat
 - [ ] **Kobe day trip** — Kobe beef lunch, sake breweries in Nada, harbourside walk
 - [ ] **teamLab Botanical Garden** — immersive night art installation at Nagai Park
+- [ ] [**Round1 Stadium Namba**](https://www.google.com/maps/search/?api=1&query=Round1+Stadium+Namba+Osaka) — bowling, arcades, karaoke, batting cages, trampolines, indoor go-karts and more; spo-cha pass ~¥2,500/person for unlimited activities. No booking needed, open late. 🌧️ Also a great rainy day backup for any Osaka day
 
 > 🎂 Decision pending — lock in a plan closer to the date once the group decides what feels right for the birthday person!
 
