@@ -206,17 +206,15 @@ Full day free — it's a birthday! Plan something special. Ideas being considere
 
 東京 · 池袋 · 22 April — 27 April · 5 nights · [**Airbnb**](https://www.airbnb.co.uk/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMC8K4FM5Y)
 
-### Apr 23 (Thu) — Shinjuku, Meiji, Harajuku, teamLab & Shibuya Sky Sunset
+### Apr 23 (Thu) — Shinjuku, Meiji, Harajuku & teamLab
 
 - [ ] **09:00** — [**Shinjuku Gyoen**](https://www.google.com/maps/search/?api=1&query=Shinjuku+Gyoen+National+Garden): one of Tokyo's most beautiful gardens — late cherry blossoms possible mid-April; peaceful and spacious (opens 9:00)
 - [ ] **10:30** — [**Meiji Jingu Shrine**](https://www.google.com/maps/search/?api=1&query=Meiji+Jingu+Shrine+Tokyo): tranquil forested grounds in the heart of the city
 - [ ] **12:00** — [**Harajuku & Omotesando**](https://www.google.com/maps/search/?api=1&query=Harajuku+Omotesando+Tokyo): [Takeshita Street](https://www.google.com/maps/search/?api=1&query=Takeshita+Street+Harajuku+Tokyo), the most architecturally impressive shopping boulevard in Japan; lunch here
-- [ ] **14:00** — [**teamLab Planets Toyosu**](https://www.google.com/maps/search/?api=1&query=teamLab+Planets+Toyosu+Tokyo): immersive digital art — walk barefoot through water and interactive light installations (~2 hrs; book timed entry in advance). ⚠️ Aim to leave by **16:00 sharp** — transit to Shibuya takes ~30 min
-- [ ] **16:30** — Head to Shibuya; quick stop at [**Hachiko statue**](https://www.google.com/maps/search/?api=1&query=Hachiko+Statue+Shibuya+Tokyo)
-- [ ] **17:00** — [**Shibuya Sky**](https://www.google.com/maps/search/?api=1&query=Shibuya+Sky+Tokyo) for sunset (~18:17) — book the premium slot with 2-drink option; watch the city transition from golden hour to glittering lights from the open-air rooftop
-- [ ] **19:00** — Down to street level for [**Shibuya Crossing**](https://www.google.com/maps/search/?api=1&query=Shibuya+Crossing+Tokyo) at night — the neon-lit scramble is best after dark
-- [ ] **19:30** — [**Udagawacho backstreets**](https://www.google.com/maps/search/?api=1&query=Udagawacho+Shibuya+Tokyo) and the enormous [**Don Quijote**](https://www.google.com/maps/search/?api=1&query=Don+Quijote+Shibuya+Tokyo) — the ultimate Japanese discount store for cosmetics, snacks, electronics and souvenirs
-- [ ] **20:30** — Dinner in Shibuya or head to [**Shinjuku**](https://www.google.com/maps/search/?api=1&query=Kabukicho+Shinjuku+Tokyo) for Kabukicho nightlife and the [Omoide Yokocho (Memory Lane)](https://www.google.com/maps/search/?api=1&query=Omoide+Yokocho+Shinjuku+Tokyo) tiny yakitori alleys
+- [ ] **14:00** — [**teamLab Planets Toyosu**](https://www.google.com/maps/search/?api=1&query=teamLab+Planets+Toyosu+Tokyo): immersive digital art — walk barefoot through water and interactive light installations (~2 hrs; book timed entry in advance)
+- [ ] **16:30** — Head to Shibuya; quick stop at [**Hachiko statue**](https://www.google.com/maps/search/?api=1&query=Hachiko+Statue+Shibuya+Tokyo) and [**Shibuya Crossing**](https://www.google.com/maps/search/?api=1&query=Shibuya+Crossing+Tokyo)
+- [ ] **17:00** — [**Udagawacho backstreets**](https://www.google.com/maps/search/?api=1&query=Udagawacho+Shibuya+Tokyo) and the enormous [**Don Quijote**](https://www.google.com/maps/search/?api=1&query=Don+Quijote+Shibuya+Tokyo) — the ultimate Japanese discount store for cosmetics, snacks, electronics and souvenirs
+- [ ] **19:00** — Dinner in Shibuya or head to [**Shinjuku**](https://www.google.com/maps/search/?api=1&query=Kabukicho+Shinjuku+Tokyo) for Kabukicho nightlife and the [Omoide Yokocho (Memory Lane)](https://www.google.com/maps/search/?api=1&query=Omoide+Yokocho+Shinjuku+Tokyo) tiny yakitori alleys
 
 ### Apr 24 (Fri) — 🗻 Day Trip to Kawaguchiko & Mt. Fuji + Roppongi Night `DAY TRIP`
 
@@ -230,17 +228,18 @@ Full day free — it's a birthday! Plan something special. Ideas being considere
 
 > 💡 **Bus booking**: Reserve the Shinjuku–Kawaguchiko bus via **Highway Bus Online** or **Willer Express** — popular route, book early for 6 seats. The bus drops you at Kawaguchiko Station. Weather is key — check the Fuji visibility forecast the night before. If Fuji is hidden in cloud, consider swapping this day with Apr 23.
 
-### Apr 25 (Sat) — Akihabara, Ginza, Ueno & Farewell Night
+### Apr 25 (Sat) — Ginza, Akihabara, Ueno, Shibuya Sky & Farewell Night
 
 - [ ] **10:30** — [**Ginza**](https://www.google.com/maps/search/?api=1&query=Ginza+Tokyo): Tokyo's most upscale shopping district — flagship stores, department basements (depachika) with incredible food halls, architectural landmarks; brunch/lunch here. Later start to recover from Roppongi
 - [ ] **13:00** — [**Akihabara**](https://www.google.com/maps/search/?api=1&query=Akihabara+Tokyo): multi-floor electronics shops, anime stores, retro game arcades — allow time to browse. Short hop north from Ginza (2 stops on JR)
 - [ ] **14:30** — [**Ueno**](https://www.google.com/maps/search/?api=1&query=Ameyoko+Market+Ueno+Tokyo): Ameyoko market street for souvenirs and street food; lively market atmosphere. One stop north from Akihabara
 - [ ] **15:30** — [**Nezu Shrine**](https://www.google.com/maps/search/?api=1&query=Nezu+Shrine+Tokyo): calm, non-touristy shrine with lovely gardens and a small torii tunnel — a hidden gem between Ueno and Asakusa
 - [ ] **16:30** — Return to [**Asakusa**](https://www.google.com/maps/search/?api=1&query=Asakusa+Tokyo) for any shopping missed; [Kaminarimon Gate](https://www.google.com/maps/search/?api=1&query=Kaminarimon+Gate+Asakusa+Tokyo) souvenir photos
-- [ ] **17:30** — [**Tokyo Skytree**](https://www.google.com/maps/search/?api=1&query=Tokyo+Skytree) for sunset & night views from 450m — right next to Asakusa, walk across the Sumida River (open until 22:00; last entry 21:00)
-- [ ] **19:30** — 🥂 **Farewell dinner for all 6** — splurge on sushi omakase or wagyu yakiniku; last night together as a group
-- [ ] **21:30** — Post-dinner drinks or a last stroll through Asakusa / Akihabara at night — soak up the final evening
-- [ ] **22:30** — 🚗 [**Akihabara UDX car meetup**](https://www.google.com/maps/search/?api=1&query=Akihabara+UDX+Parking+Tokyo) (Fridays & Saturdays): informal gathering of JDM and modified cars in the UDX building parking lot — a unique Tokyo late-night bonus for car lovers
+- [ ] **17:30** — [**Tokyo Skytree**](https://www.google.com/maps/search/?api=1&query=Tokyo+Skytree) for sunset views from 450m — right next to Asakusa, walk across the Sumida River
+- [ ] **19:00** — Head to Shibuya (~30 min from Asakusa)
+- [ ] **19:40** — [**Shibuya Sky**](https://www.google.com/maps/search/?api=1&query=Shibuya+Sky+Tokyo) — night views from the open-air rooftop; the city fully lit up ✅ *Tickets booked*
+- [ ] **21:00** — 🥂 **Farewell dinner for all 6** in Shibuya — splurge on sushi omakase or wagyu yakiniku; last night together as a group
+- [ ] **23:00** — 🚗 [**Akihabara UDX car meetup**](https://www.google.com/maps/search/?api=1&query=Akihabara+UDX+Parking+Tokyo) (Fridays & Saturdays): informal gathering of JDM and modified cars in the UDX building parking lot — a unique Tokyo late-night bonus for car lovers
 
 ### Apr 26 (Sun) — Last Full Day — Group Parts Ways `DEPARTURE ×4`
 
@@ -292,7 +291,7 @@ Full day free — it's a birthday! Plan something special. Ideas being considere
 - **Keisei Skyliner** (Apr 14) — 6 reserved seats Asakusa/Ueno → Narita; book at the station or online
 - **Shinkansen seats** Osaka↔Hiroshima — book early for 6 together
 - **Kawaguchiko bus** (Apr 24) — 6 seats Shinjuku↔Kawaguchiko; popular route, sells out
-- **Shibuya Sky** (Apr 23) — book the ~17:00 premium sunset slot with 2-drink option for 6
+- **Shibuya Sky** (Apr 25) — ✅ booked, 19:40 slot for 6
 - **teamLab Planets** (Apr 23) — timed entry ~14:00 slot for 6
 - **Haruka Express** (Apr 14) — reserved seats Kansai Airport → Kyoto for 6
 - **Umeda Sky Building** (Apr 18) — online tickets recommended for Saturday sunset; book for 6
@@ -322,7 +321,7 @@ Full day free — it's a birthday! Plan something special. Ideas being considere
 - Many taxis fit 4; for 6 people, use **two taxis** or **Go app** (Japanese Uber equivalent)
 - Some restaurants have **min. group size limits** — book ahead to confirm
 - **Luggage forwarding** (takuhaibin): send bags between **Airbnbs** for ~¥2,000–3,000/bag — takes 1 day; saves dragging luggage on transit days (Apr 17 Kyoto→Osaka especially). Ask your host the evening before
-- [**Shibuya Sky**](https://www.google.com/maps/search/?api=1&query=Shibuya+Sky+Tokyo) (Apr 23): book the ~17:00 premium slot with 2 drinks; sunset is ~18:17 — arrive early to secure a good spot on the open-air rooftop
+- [**Shibuya Sky**](https://www.google.com/maps/search/?api=1&query=Shibuya+Sky+Tokyo) (Apr 25): ✅ booked, 19:40 slot — night views from the open-air rooftop; arrive 10 min early
 - April is **Golden Week** end — April 29+ gets very busy. You depart April 26/27, so mostly fine, but expect bigger crowds from April 25
 - **April = late cherry blossoms**. Ueno, Maruyama Park (Kyoto), and Osaka Castle Park may still have blossoms early in the trip!
 
